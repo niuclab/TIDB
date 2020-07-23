@@ -1,0 +1,60 @@
+{
+  "name": "TIDB",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "egg": {
+    "declarations": true
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "csv-parse": "^4.10.1",
+    "csv-stringify": "^5.5.0",
+    "egg": "^2.15.1",
+    "egg-mongoose": "^3.2.0",
+    "egg-parameters": "^1.1.2",
+    "egg-router-plus": "^1.3.1",
+    "egg-scripts": "^2.11.0",
+    "egg-socket.io": "^4.1.6",
+    "egg-view-pug": "^1.0.0",
+    "execa": "^4.0.0",
+    "fs-extra": "^9.0.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "autod-egg": "^1.1.0",
+    "egg-bin": "^4.11.0",
+    "egg-ci": "^1.11.0",
+    "egg-mock": "^3.21.0",
+    "eslint": "^5.13.0",
+    "eslint-config-egg": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "egg-scripts start --daemon --title=egg-server-TIDB --ignore-stderr",
+    "stop": "egg-scripts stop --title=egg-server-TIDB",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "ci": {
+    "version": "10"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT"
+}

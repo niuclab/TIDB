@@ -1,0 +1,50 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/css/Index/index.css')
+    link(rel='stylesheet', href='/TIDBStatic/widgets/jquery-ui-1.11.4.custom/jquery-ui.min.css')
+block content
+    .row.introductContainer
+        .panel.panel-primary
+            .panel-heading Search trained immunity database
+            .panel-body
+                form#searchForm(action='/tidb/search?_csrf='+ctx.csrf, method='post')
+                    .form-group
+                        label(for='geneSymbol') List of gene symbols or gene synonyms: (one gene per line; <a class="exampleBtn" href="#">Example</a>)
+                        textarea#geneSymbol.form-control(name='geneSymbol' rows="5" required)
+                    .form-group(style="margin-top:10px;")
+                        button.btn.btn-default(type='submit') Search
+                        button.btn.btn-default(type='button', onclick="document.getElementById('searchForm').reset();", style="margin-left:10px;") Reset
+    .row.newsContainer
+        .panel.panel-primary
+            .panel-heading Introduction
+            .panel-body
+                p Immunological memory which has been thought to be privilege of adoptive immunity and basis of vaccination is the ability of the immune system to quickly and effectively recognize previously encountered antigens. However, accumulated evidence shows that innate immune responses can also build long lasting memory of past insults which has been termed as "trained immunity" by Netea,M.G.et al [1]. Over the past few years, many studies have proven that prototypical innate immune cells (such as monocytes, macrophages, dendritic cells or natural killer cells) also display long-term adaptation and enhanced responsiveness to certain stimuli after infection or vaccination [2]. Trained immunity has changed our perspective of host defense and immunological memory, and could provide a new strategy for vaccine designing and disease therapy.
+                p Moreover, trained immunity in different microenvironments can be either beneficial or harmful to host. BCG vaccination protects host against heterologous infections and malignancies through trained macrophage which is independent of adoptive immunity [3].However cancer cells can also induce epigenetic reprograming in innate immune cells through a number of mediators. These trained cells-secreted IL-6 and TNF could increase the tumorigenicity and the metastases of some tumors which contribute to the development of tumors [4,5]. Mechanisms of above phenomena related to trained immunity is deeply hid into variation of gene expression.
+                p
+                    | However, all tranied immunity-related information is dispersed in hundreds of publications. Here we present a database <b>TIDB</b> that collects all previously identified genes associated with trained immunity from three species (Homo sapiens, Mus musculus and Rattus norvegicus) using the text-mining and manual curation. <b>TIDB</b> provides user-friendly interface to conveniently browse, retrieve and download the list of trained immunity-related genes. Moreover, <b>TIDB</b> also provides three modules to analyze trained immunity-related genes of interest, including Reactome pathway over-representation analysis, GO enrichment analysis and PPI network reconstruction. This database is freely accessible at &nbsp
+                    a(href='http://www.ieom-tm.com/tidb', target='_blank') http://www.ieom-tm.com/tidb
+                    | .
+        .panel.panel-primary
+            .panel-heading References
+            .panel-body
+                p 1. Netea, Mihai G., Jessica Quintin, and Jos WM Van Der Meer. "Trained immunity: a memory for innate host defense." Cell host &amp microbe 9.5 (2011): 355-361.
+                p 2. Braza, Mounia S., et al. "Inhibiting inflammation with myeloid cell-specific nanobiologics promotes organ transplant acceptance." Immunity 49.5 (2018): 819-828.
+                p 3. Arts, Rob JW, et al. "BCG vaccination protects against experimental viral infection in humans through the induction of cytokines associated with trained immunity." Cell host &amp microbe 23.1 (2018): 89-100.
+                p 4. Lee, Sung Hee, et al. "TNFα enhances cancer stem cell-like phenotype via Notch-Hes1 activation in oral squamous cell carcinoma cells." Biochemical and biophysical research communications 424.1 (2012): 58-64.
+                p 5. Hodge, David R., Elaine M. Hurt, and William L. Farrar. "The role of IL-6 and STAT3 in inflammation and cancer." European journal of cancer 41.16 (2005): 2502-2512.
+            .panel-heading Contact
+            .panel-body
+                .row(style="display:flex;align-items:center")
+                    .col-md-9
+                        p Feedback and comments are greatly appreciated. Please feel free to contact us, if you have any questions or suggestions.
+                        p 
+                            | Chao Niu, Ph.D. Associate professor<br>
+                            a(href="mailto:niuchao601@126.com") niuchao601@126.com
+                        p Department of Environmental Medicine<br>Institute of Environmental and Operational Medicine, Tianjin, China
+                    .col-md-3()
+                        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5gdxypglr1m&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
+block js
+    script(src='/TIDBStatic/widgets/jquery-ui-1.11.4.custom/jquery-ui.min.js')
+    script(src='https://code.highcharts.com/highcharts.js')
+    script(src='/TIDBStatic/js/Index/index.js')

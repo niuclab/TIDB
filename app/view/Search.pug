@@ -1,0 +1,41 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.css')
+    style.
+        .analysisContainer{width:60%;text-align:center;border:1px solid #ccc;padding:5px;margin:auto}
+block content
+    .row
+        .panel.panel-primary
+            .panel-heading Search results
+            .panel-body
+                .row
+                    table#resultTable
+    .row
+        .panel.panel-primary
+            .panel-heading Analysis
+            .panel-body
+                .row
+                    .col-md-4
+                        .analysisContainer
+                            img.img-responsive(src="/TIDBStatic/img/reactome.png" alt="Reactome")
+                            button#reactomeBtn.btn.btn-default.btn-lg(type='button') Reactome
+                    .col-md-4
+                        .analysisContainer
+                            img.img-responsive(src="/TIDBStatic/img/GO.png" alt="GO enrichment")    
+                            button#goBtn.btn.btn-default.btn-lg(type='button') GO enrichment
+                    .col-md-4
+                        .analysisContainer
+                            img.img-responsive(src="/TIDBStatic/img/PPI.png" alt="PPI network")    
+                            button#ppiBtn.btn.btn-default.btn-lg(type='button') PPI network
+                        
+    .row(style='display: none')
+        form#analysisForm(action='/tidb/analysis?_csrf='+ctx.csrf, target='_blank', method='post')
+            input(type='text', name='userSelectGene', value='')
+            input(type="text", name="analysisType", value="reactome")
+
+block js
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.js"></script>
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table-filter-control-search.js"></script>
+    script.
+        var searchItem = '#{geneSymbol}';
+    script(src='/TIDBStatic/js/Search/search.js')

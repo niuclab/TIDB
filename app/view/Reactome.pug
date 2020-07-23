@@ -1,0 +1,20 @@
+extends common/layout
+block content
+    .row
+        .panel.panel-primary
+            .panel-heading Interested Genes
+            .panel-body #{userSelectGene}
+    .row
+        div
+            ul.nav.nav-tabs(role='tablist')
+                li.active(role='presentation')
+                    a(href='#reactome', aria-controls='profile', role='tab', data-toggle='tab') Reactome Analysis
+            .tab-content
+                #reactome.tab-pane.active(role='tabpanel')
+                    iframe#reactomeIframe(style='width: 100%;height: 900px;border: 0', src='http://reactome.ncpsb.org/PathwayBrowser/#/DTAB=AN&ANALYSIS='+token)
+
+
+
+block js
+    script.
+      $("#homeNav").addClass("active");

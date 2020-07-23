@@ -1,0 +1,13 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.css')
+block content
+    .row
+        <pre>   <span class="geneFilter active">A</span> <span class="geneFilter">B</span> <span class="geneFilter">C</span> <span class="geneFilter">D</span> <span class="geneFilter">E</span> <span class="geneFilter">F</span> <span class="geneFilter">G</span> <span class="geneFilter">H</span> <span class="geneFilter">I</span> <span class="geneFilter">J</span> <span class="geneFilter">K</span> <span class="geneFilter">L</span> <span class="geneFilter">M</span> <span class="geneFilter">N</span> <span class="geneFilter">O</span> <span class="geneFilter">P</span> <span class="geneFilter">Q</span> <span class="geneFilter">R</span> <span class="geneFilter">S</span> <span class="geneFilter">T</span> <span class="geneFilter">U</span> <span class="geneFilter">V</span> <span class="geneFilter">W</span> <span class="geneFilter">X</span> <span class="geneFilter">Y</span> <span class="geneFilter">Z</span> </pre>
+    .row
+        table#geneTable    
+block js
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.js"></script>
+    script.
+      $("#browseNav").addClass("active");
+    script(src="/TIDBStatic/js/Browse/index.js")  

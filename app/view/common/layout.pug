@@ -1,0 +1,23 @@
+doctype html
+html(lang='en')
+    head
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')
+        title TIDB
+        // Bootstrap CSS
+        link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap/bootstrap.min.css')
+        link(rel='stylesheet', href='/TIDBStatic/widgets/font-awesome-4.6.2/css/font-awesome.min.css')
+        link(rel='stylesheet', href='/TIDBStatic/css/common.css')
+        block css
+        script.
+            var baseUrl = '/tidb'
+    body
+        .container
+            include header
+            block content
+            include footer
+        script(src="/TIDBStatic/widgets/jQuery/jquery-1.11.1.min.js")
+        script(src="/TIDBStatic/widgets/bootstrap/bootstrap.min.js")
+        script(src="/TIDBStatic/js/common.js")
+        block js
+

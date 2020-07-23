@@ -1,0 +1,65 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.css')
+block content
+    .row
+        .panel.panel-primary
+            .panel-heading Interested Genes
+            .panel-body #{userSelectGene}
+    .row
+        .panel.panel-primary
+            .panel-heading Parameter setting
+            .panel-body
+                form.form-inline.parmaForm
+                    .form-group(style="margin-right:30px;margin-bottom:10px;")
+                        label(for="species") Please select species:
+                        select#species.form-control(name="species")
+                            option(selected) Homo sapiens
+                            option Mus musculus
+                            option Rattus norvegicus
+                    .form-group(style="margin-right:30px;margin-bottom:10px;")
+                        label(for="goClass") Ontology:
+                        select#goClass.form-control(name="goClass")
+                            option(value="biological process" selected) Biological process
+                            option(value="molecular function") Molecular function
+                            option(value="celluar compenent") Celluar compenent
+                            option(value="all") All
+                    .form-group(style="margin-right:30px;margin-bottom:10px;")
+                        label(for="cutoff") Pvalue cutoff:
+                        input.form-control#cutoff(type="number" name="cutoff" value="0.05" step="0.01" min="0.01", max="1")
+                    .checkbox(style="margin-right:30px;margin-bottom:10px;")
+                        <label><input type="checkbox" name="FDR" value="TRUE" checked> FDR-adjust </label>
+                    button.btn.btn-default.submitBtn(type="submit" style="margin-right:30px;margin-bottom:10px;") Submit
+    .row
+        div
+            ul.nav.nav-tabs(role='tablist')
+                li.active(role='presentation')
+                    a(href='#visualization', aria-controls='profile', role='tab', data-toggle='tab') Visualization
+                li(role='presentation' style="padding-left:0.2em")
+                    a(href='#tableShow', aria-controls='profile', role='tab', data-toggle='tab') Results table
+
+            .tab-content
+                #visualization.tab-pane.active(role='tabpanel' style="min-height:450px;")
+                    form.form-inline.chartForm(style="margin:10px 0")
+                        .form-group.chartFormGroup(style="display:none;margin-right:15px;")
+                            label(for="chartType") Graphical output:
+                            select.form-control#chartType(name="chartType")
+                                option(value="dot" selected) Dot Plot
+                                option(value="bar") Bar Plot
+                        .form-group.chartFormGroup(style="display:none;")
+                            label(for="featuresNumber") Number of features to visualization:
+                            input.form-control#featuresNumber(name="featuresNumber" type="number" value="10")
+                        button.btn.btn-default.chartFormGroup.submitUpdate(type="button" style="display:none;margin-left:15px") Update    
+                    img.goImage(style="display:none;max-width:100%;" src="")
+                #tableShow.tab-pane(role='tabpanel' style="min-height:450px;")
+                    a.btn.btn-default.resultExportBtn.pull-right(href="/tidb/getFile/go/"+token, target="_blank", style="display:none;margin:10px 0") Export details as csv
+                    table#table(style="margin-top:15px;")
+    .layerContainer(style="position:fixed;width:100%;height:100%;top:0;left:0;background:#000;opacity:0.4;display:none;align-items:center;justify-content:center;")
+      img(src="/TIDBStatic/widgets/layer/loading-1.gif")                    
+block js
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.js"></script>
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js")
+    script.
+      $("#homeNav").addClass("active");
+      var flag = "#{token}"
+    script(src="/TIDBStatic/js/analysis/go.js")  

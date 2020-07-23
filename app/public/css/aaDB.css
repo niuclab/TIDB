@@ -1,0 +1,47 @@
+.aaDBNav li a{font-size: 18px;}
+
+.egContent{cursor: pointer;}
+.egContent:hover{color: blue}
+
+.helpIcon{color: red;cursor: pointer}
+
+.fa-arrow-down{cursor: pointer}
+
+.fixed-table-container tbody td {
+    border-left: 0;
+}
+#checkTable tbody tr{margin-top: 3px;}
+
+.fixed-table-container tbody .selected td{background-color: #fff}
+/**********文本高亮***********/
+.highlight{border: 1px solid transparent;border-bottom: 1px dotted #aaa;cursor:help}
+
+.highlightPara{line-height: 24px;}
+.Anatomy.active{background-color: blue}
+.Disorders.active{background-color: red}
+.Ambiguous.active{background-color: yellow}
+
+/***********GENE 按字母筛选样式****************/
+.geneFilter{cursor:pointer;text-decoration: underline;color: #428bca}
+.geneFilter:hover{color: #00f}
+.geneFilter.active{color: #00f}
+
+.diseaseFilter{cursor:pointer;text-decoration: underline;color: #428bca}
+.diseaseFilter:hover{color: #00f}
+.diseaseFilter.active{color: #00f}
+
+.typeahead { z-index: 1051; }
+/****************表格中匹配term的着色********************/
+.match{background-color: yellow}
+/************** 匹配句子样式***********************/
+.highlightPara>p{margin: 0px;font-size: 14px;}
+
+/************** term 着色***********************/
+.matchedSent{background-color: #DCDCDC}
+.highlightItem{background-color: yellow}
+/************** 表单校验 *************************/
+.error {
+    color: red
+}
+
+

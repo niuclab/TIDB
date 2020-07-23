@@ -1,0 +1,72 @@
+/* Dark */
+table.dark, table.dark th, table.dark td{
+    border-color: #d2d2d2;
+}
+table.dark th {
+    background-color: #c2c2c2;
+    color: #000000;
+}
+table.dark td {
+    line-height: 18px;
+}
+table.dark th.head, table.dark th.organ, div.black_bar {
+    color: #f2f2f2;
+    background-color: #e3e3e3;
+    background-image: url('../../img/th_bg_dark.gif');
+    background-repeat: repeat-x;
+    vertical-align: top;
+    height: 23px;
+}
+table.dark th.organ {
+    vertical-align: middle;
+    font-size: 12px;
+    padding: 3px 0px 0px 5px;
+    border-bottom: 0;
+}
+table.dark th.sub_head {
+    background-color: #AEAEAE;
+    vertical-align: top;
+    font-size: 11px;
+}
+table.dark th a.help, table.index_light th a.help {
+    font-size: 11px;
+    color: #808080;
+    text-decoration: none;
+    margin: 4px 4px 4px 4px;
+    padding: 0px;
+    white-space: nowrap;
+    display: inline-block;
+    /* IE 6 & 7 fix */
+    zoom: 1;
+    *display: inline;
+}
+table.dark th a.help:hover {
+    color: #f2f2f2;
+}
+table.dark tr.normal_odd td {
+    background-color: #CCCCCC;
+}
+table.dark tr.normal_even td {
+    background-color: #DDDDDD;
+}
+.normal_even:hover td {
+//border: 2px solid;
+    cursor: pointer;
+}
+table.dark tr td.not_done {
+    background-color: #EEE;
+    color: #AAA;
+    font-size: 10px;
+    text-align: center !important;
+}
+table.dark tr td.not_done a {
+    background-color: #EEE;
+    color: #AAA;
+    font-size: 10px;
+    text-align: center !important;
+}
+
+DIV.corner {
+    position: relative;
+    width: 100%;
+}

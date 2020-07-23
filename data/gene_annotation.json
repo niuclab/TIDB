@@ -1,0 +1,3967 @@
+[
+    {
+        "Gene ID": 207,
+        "Name": "AKT1",
+        "Symbol": "AKT1 (provided by HGNC)",
+        "Full Name": "AKT serine/threonine kinase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "AKT; CWS6; PKB; PKB-ALPHA; PRKBA; RAC; RAC-ALPHA",
+        "Synonyms_list": [
+            "AKT",
+            "CWS6",
+            "PKB",
+            "PKB-ALPHA",
+            "PRKBA",
+            "RAC",
+            "RAC-ALPHA"
+        ],
+        "Chromosome": "14",
+        "Map location": "14q32.33",
+        "General protein information": "RAC-alpha serine/threonine-protein kinase; AKT1m; PKB alpha; RAC-PK-alpha; protein kinase B alpha; proto-oncogene c-Akt; rac protein kinase alpha; serine-threonine protein kinase; v-akt murine thymoma viral oncogene homolog 1; v-akt murine thymoma viral oncogene-like protein 1",
+        "Summary": "The serine-threonine protein kinase encoded by the AKT1 gene is catalytically inactive in serum-starved primary and immortalized fibroblasts. AKT1 and the related AKT2 are activated by platelet-derived growth factor. The activation is rapid and specific, and it is abrogated by mutations in the pleckstrin homology domain of AKT1. It was shown that the activation occurs through phosphatidylinositol 3-kinase. In the developing nervous system AKT is a critical mediator of growth factor-induced neuronal survival. Survival factors can suppress apoptosis in a transcription-independent manner by activating the serine/threonine kinase AKT1, which then phosphorylates and inactivates components of the apoptotic machinery. Mutations in this gene have been associated with the Proteus syndrome. Multiple alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, Jul 2011]",
+        "Entrez Gene ID": {
+            "text": "207",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=207"
+        },
+        "MIM": {
+            "text": "164730",
+            "href": "https://omim.org/entry/164730"
+        },
+        "HGNC": {
+            "text": "HGNC:391",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:391"
+        },
+        "Ensembl": {
+            "text": "ENSG00000142208",
+            "href": "http://www.ensembl.org/id/ENSG00000142208"
+        }
+    },
+    {
+        "Gene ID": 920,
+        "Name": "CD4",
+        "Symbol": "CD4 (provided by HGNC)",
+        "Full Name": "CD4 molecule",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD4mut",
+        "Synonyms_list": [
+            "CD4mut"
+        ],
+        "Chromosome": "12",
+        "Map location": "12p13.31",
+        "General protein information": "T-cell surface glycoprotein CD4; CD4 antigen (p55); CD4 receptor; T-cell surface antigen T4/Leu-3",
+        "Summary": "This gene encodes the CD4 membrane glycoprotein of T lymphocytes. The CD4 antigen acts as a coreceptor with the T-cell receptor on the T lymphocyte to recognize antigens displayed by an antigen presenting cell in the context of class II MHC molecules. The CD4 antigen is also a primary receptor for entry of the human immunodeficiency virus through interactions with the HIV Env gp120 subunit. This gene is expressed not only in T lymphocytes, but also in B cells, macrophages, granulocytes, as well as in various regions of the brain. The protein functions to initiate or augment the early phase of T-cell activation, and may function as an important mediator of indirect neuronal damage in infectious and immune-mediated diseases of the central nervous system. Multiple alternatively spliced transcript variants encoding different isoforms have been identified in this gene. [provided by RefSeq, May 2020]",
+        "Entrez Gene ID": {
+            "text": "920",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=920"
+        },
+        "MIM": {
+            "text": "186940",
+            "href": "https://omim.org/entry/186940"
+        },
+        "HGNC": {
+            "text": "HGNC:1678",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:1678"
+        },
+        "Ensembl": {
+            "text": "ENSG00000010610",
+            "href": "http://www.ensembl.org/id/ENSG00000010610"
+        }
+    },
+    {
+        "Gene ID": 929,
+        "Name": "CD14",
+        "Symbol": "CD14 (provided by HGNC)",
+        "Full Name": "CD14 molecule",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "5",
+        "Map location": "5q31.3",
+        "General protein information": "monocyte differentiation antigen CD14; myeloid cell-specific leucine-rich glycoprotein",
+        "Summary": "The protein encoded by this gene is a surface antigen that is preferentially expressed on monocytes/macrophages. It cooperates with other proteins to mediate the innate immune response to bacterial lipopolysaccharide. Alternative splicing results in multiple transcript variants encoding the same protein. [provided by RefSeq, Mar 2010]",
+        "Entrez Gene ID": {
+            "text": "929",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=929"
+        },
+        "MIM": {
+            "text": "158120",
+            "href": "https://omim.org/entry/158120"
+        },
+        "HGNC": {
+            "text": "HGNC:1628",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:1628"
+        },
+        "Ensembl": {
+            "text": "ENSG00000170458",
+            "href": "http://www.ensembl.org/id/ENSG00000170458"
+        }
+    },
+    {
+        "Gene ID": 1432,
+        "Name": "MAPK14",
+        "Symbol": "MAPK14 (provided by HGNC)",
+        "Full Name": "mitogen-activated protein kinase 14",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CSBP; CSBP1; CSBP2; CSPB1; EXIP; Mxi2; PRKM14; PRKM15; RK; SAPK2A; p38; p38ALPHA",
+        "Synonyms_list": [
+            "CSBP",
+            "CSBP1",
+            "CSBP2",
+            "CSPB1",
+            "EXIP",
+            "Mxi2",
+            "PRKM14",
+            "PRKM15",
+            "RK",
+            "SAPK2A",
+            "p38",
+            "p38ALPHA"
+        ],
+        "Chromosome": "6",
+        "Map location": "6p21.31",
+        "General protein information": "mitogen-activated protein kinase 14; CSAID-binding protein; MAP kinase 14; MAP kinase Mxi2; MAP kinase p38 alpha; MAX-interacting protein 2; cytokine suppressive anti-inflammatory drug binding protein; mitogen-activated protein kinase p38 alpha; p38 MAP kinase; p38 mitogen activated protein kinase; p38alpha Exip; stress-activated protein kinase 2A",
+        "Summary": "The protein encoded by this gene is a member of the MAP kinase family. MAP kinases act as an integration point for multiple biochemical signals, and are involved in a wide variety of cellular processes such as proliferation, differentiation, transcription regulation and development. This kinase is activated by various environmental stresses and proinflammatory cytokines. The activation requires its phosphorylation by MAP kinase kinases (MKKs), or its autophosphorylation triggered by the interaction of MAP3K7IP1/TAB1 protein with this kinase. The substrates of this kinase include transcription regulator ATF2, MEF2C, and MAX, cell cycle regulator CDC25B, and tumor suppressor p53, which suggest the roles of this kinase in stress related transcription and cell cycle regulation, as well as in genotoxic stress response. Four alternatively spliced transcript variants of this gene encoding distinct isoforms have been reported. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "1432",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1432"
+        },
+        "MIM": {
+            "text": "600289",
+            "href": "https://omim.org/entry/600289"
+        },
+        "HGNC": {
+            "text": "HGNC:6876",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6876"
+        },
+        "Ensembl": {
+            "text": "ENSG00000112062",
+            "href": "http://www.ensembl.org/id/ENSG00000112062"
+        }
+    },
+    {
+        "Gene ID": 1435,
+        "Name": "CSF1",
+        "Symbol": "CSF1 (provided by HGNC)",
+        "Full Name": "colony stimulating factor 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CSF-1; MCSF",
+        "Synonyms_list": [
+            "CSF-1",
+            "MCSF"
+        ],
+        "Chromosome": "1",
+        "Map location": "1p13.3",
+        "General protein information": "macrophage colony-stimulating factor 1; colony stimulating factor 1 (macrophage); lanimostim; macrophage colony stimulating factor 1",
+        "Summary": "The protein encoded by this gene is a cytokine that controls the production, differentiation, and function of macrophages. The active form of the protein is found extracellularly as a disulfide-linked homodimer, and is thought to be produced by proteolytic cleavage of membrane-bound precursors. The encoded protein may be involved in development of the placenta. Alternate splicing results in multiple transcript variants. [provided by RefSeq, Sep 2011]",
+        "Entrez Gene ID": {
+            "text": "1435",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1435"
+        },
+        "MIM": {
+            "text": "120420",
+            "href": "https://omim.org/entry/120420"
+        },
+        "HGNC": {
+            "text": "HGNC:2432",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:2432"
+        },
+        "Ensembl": {
+            "text": "ENSG00000184371",
+            "href": "http://www.ensembl.org/id/ENSG00000184371"
+        }
+    },
+    {
+        "Gene ID": 1437,
+        "Name": "CSF2",
+        "Symbol": "CSF2 (provided by HGNC)",
+        "Full Name": "colony stimulating factor 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CSF; GMCSF",
+        "Synonyms_list": [
+            "CSF",
+            "GMCSF"
+        ],
+        "Chromosome": "5",
+        "Map location": "5q31.1",
+        "General protein information": "granulocyte-macrophage colony-stimulating factor; colony stimulating factor 2 (granulocyte-macrophage); granulocyte macrophage-colony stimulating factor; molgramostim; molgramostin; sargramostim",
+        "Summary": "The protein encoded by this gene is a cytokine that controls the production, differentiation, and function of granulocytes and macrophages. The active form of the protein is found extracellularly as a homodimer. This gene has been localized to a cluster of related genes at chromosome region 5q31, which is known to be associated with interstitial deletions in the 5q- syndrome and acute myelogenous leukemia. Other genes in the cluster include those encoding interleukins 4, 5, and 13. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "1437",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1437"
+        },
+        "MIM": {
+            "text": "138960",
+            "href": "https://omim.org/entry/138960"
+        },
+        "HGNC": {
+            "text": "HGNC:2434",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:2434"
+        },
+        "Ensembl": {
+            "text": "ENSG00000164400",
+            "href": "http://www.ensembl.org/id/ENSG00000164400"
+        }
+    },
+    {
+        "Gene ID": 1636,
+        "Name": "ACE",
+        "Symbol": "ACE (provided by HGNC)",
+        "Full Name": "angiotensin I converting enzyme",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "ACE1; CD143; DCP; DCP1",
+        "Synonyms_list": [
+            "ACE1",
+            "CD143",
+            "DCP",
+            "DCP1"
+        ],
+        "Chromosome": "17",
+        "Map location": "17q23.3",
+        "General protein information": "angiotensin-converting enzyme; CD143 antigen; angiotensin I converting enzyme (peptidyl-dipeptidase A) 1; angiotensin converting enzyme, somatic isoform; carboxycathepsin; dipeptidyl carboxypeptidase 1; dipeptidyl carboxypeptidase I; kininase II; peptidase P",
+        "Summary": "This gene encodes an enzyme involved in in blood pressure regulation and electrolyte balance. It catalyzes the conversion of angiotensin I into a physiologically active peptide angiotensin II. Angiotensin II is a potent vasopressor and aldosterone-stimulating peptide that controls blood pressure and fluid-electrolyte balance. ACE also inactivates the vasodilator protein, bradykinin. Accordingly, the encoded enzyme increases blood pressure and is a drug target of ACE inhibitors, which are often prescribed to reduce blood pressure. This enzyme additionally plays a role in fertility through its ability to cleave and release GPI-anchored proteins in testes. Many studies have associated the presence or absence of a 287 bp Alu repeat element in this gene with the levels of circulating enzyme. This polymorphism, as well as mutations in this gene, have been implicated in a wide variety of diseases including cardiovascular pathophysiologies, psoriasis, renal disease, stroke, and Alzheimer's disease. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2020]",
+        "Entrez Gene ID": {
+            "text": "1636",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1636"
+        },
+        "MIM": {
+            "text": "106180",
+            "href": "https://omim.org/entry/106180"
+        },
+        "HGNC": {
+            "text": "HGNC:2707",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:2707"
+        },
+        "Ensembl": {
+            "text": "ENSG00000159640",
+            "href": "http://www.ensembl.org/id/ENSG00000159640"
+        }
+    },
+    {
+        "Gene ID": 1843,
+        "Name": "DUSP1",
+        "Symbol": "DUSP1 (provided by HGNC)",
+        "Full Name": "dual specificity phosphatase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CL100; HVH1; MKP-1; MKP1; PTPN10",
+        "Synonyms_list": [
+            "CL100",
+            "HVH1",
+            "MKP-1",
+            "MKP1",
+            "PTPN10"
+        ],
+        "Chromosome": "5",
+        "Map location": "5q35.1",
+        "General protein information": "dual specificity protein phosphatase 1; CL 100; MAP kinase phosphatase 1; dual specificity protein phosphatase hVH1; mitogen-activated protein kinase phosphatase 1; protein-tyrosine phosphatase CL100; serine/threonine specific protein phosphatase",
+        "Summary": "The protein encoded by this gene is a phosphatase with dual specificity for tyrosine and threonine. The encoded protein can dephosphorylate MAP kinase MAPK1/ERK2, which results in its involvement in several cellular processes. This protein appears to play an important role in the human cellular response to environmental stress as well as in the negative regulation of cellular proliferation. Finally, the encoded protein can make some solid tumors resistant to both chemotherapy and radiotherapy, making it a target for cancer therapy. [provided by RefSeq, Aug 2017]",
+        "Entrez Gene ID": {
+            "text": "1843",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1843"
+        },
+        "MIM": {
+            "text": "600714",
+            "href": "https://omim.org/entry/600714"
+        },
+        "HGNC": {
+            "text": "HGNC:3064",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3064"
+        },
+        "Ensembl": {
+            "text": "ENSG00000120129",
+            "href": "http://www.ensembl.org/id/ENSG00000120129"
+        }
+    },
+    {
+        "Gene ID": 1950,
+        "Name": "EGF",
+        "Symbol": "EGF (provided by HGNC)",
+        "Full Name": "epidermal growth factor",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "HOMG4; URG",
+        "Synonyms_list": [
+            "HOMG4",
+            "URG"
+        ],
+        "Chromosome": "4",
+        "Map location": "4q25",
+        "General protein information": "pro-epidermal growth factor; beta-urogastrone",
+        "Summary": "This gene encodes a member of the epidermal growth factor superfamily. The encoded preproprotein is proteolytically processed to generate the 53-amino acid epidermal growth factor peptide. This protein acts a potent mitogenic factor that plays an important role in the growth, proliferation and differentiation of numerous cell types. This protein acts by binding with high affinity to the cell surface receptor, epidermal growth factor receptor. Defects in this gene are the cause of hypomagnesemia type 4. Dysregulation of this gene has been associated with the growth and progression of certain cancers. Alternative splicing results in multiple transcript variants, at least one of which encodes a preproprotein that is proteolytically processed. [provided by RefSeq, Jan 2016]",
+        "Entrez Gene ID": {
+            "text": "1950",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=1950"
+        },
+        "MIM": {
+            "text": "131530",
+            "href": "https://omim.org/entry/131530"
+        },
+        "HGNC": {
+            "text": "HGNC:3229",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3229"
+        },
+        "Ensembl": {
+            "text": "ENSG00000138798",
+            "href": "http://www.ensembl.org/id/ENSG00000138798"
+        }
+    },
+    {
+        "Gene ID": 2214,
+        "Name": "FCGR3A",
+        "Symbol": "FCGR3A (provided by HGNC)",
+        "Full Name": "Fc fragment of IgG receptor IIIa",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD16; CD16A; FCG3; FCGR3; FCGRIII; FCR-10; FCRIII; FCRIIIA; IGFR3; IMD20",
+        "Synonyms_list": [
+            "CD16",
+            "CD16A",
+            "FCG3",
+            "FCGR3",
+            "FCGRIII",
+            "FCR-10",
+            "FCRIII",
+            "FCRIIIA",
+            "IGFR3",
+            "IMD20"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q23.3",
+        "General protein information": "low affinity immunoglobulin gamma Fc region receptor III-A; CD16a antigen; Fc fragment of IgG, low affinity III, receptor for (CD16); Fc fragment of IgG, low affinity IIIa, receptor (CD16a); Fc gamma receptor III-A; Fc-gamma RIII-alpha; Fc-gamma receptor III-2 (CD 16); Fc-gamma receptor IIIb (CD16); FcgammaRIIIA; igG Fc receptor III-2; immunoglobulin G Fc receptor III; low affinity immunoglobulin gamma receptor III-a Fc fragment; neutrophil-specific antigen NA",
+        "Summary": "This gene encodes a receptor for the Fc portion of immunoglobulin G, and it is involved in the removal of antigen-antibody complexes from the circulation, as well as other other antibody-dependent responses. This gene (FCGR3A) is highly similar to another nearby gene (FCGR3B) located on chromosome 1. The receptor encoded by this gene is expressed on natural killer (NK) cells as an integral membrane glycoprotein anchored through a transmembrane peptide, whereas FCGR3B is expressed on polymorphonuclear neutrophils (PMN) where the receptor is anchored through a phosphatidylinositol (PI) linkage. Mutations in this gene have been linked to susceptibility to recurrent viral infections, susceptibility to systemic lupus erythematosus, and alloimmune neonatal neutropenia. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "2214",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=2214"
+        },
+        "MIM": {
+            "text": "146740",
+            "href": "https://omim.org/entry/146740"
+        },
+        "HGNC": {
+            "text": "HGNC:3619",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3619"
+        },
+        "Ensembl": {
+            "text": "ENSG00000203747",
+            "href": "http://www.ensembl.org/id/ENSG00000203747"
+        }
+    },
+    {
+        "Gene ID": 2475,
+        "Name": "MTOR",
+        "Symbol": "MTOR (provided by HGNC)",
+        "Full Name": "mechanistic target of rapamycin kinase",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "FRAP; FRAP1; FRAP2; RAFT1; RAPT1; SKS",
+        "Synonyms_list": [
+            "FRAP",
+            "FRAP1",
+            "FRAP2",
+            "RAFT1",
+            "RAPT1",
+            "SKS"
+        ],
+        "Chromosome": "1",
+        "Map location": "1p36.22",
+        "General protein information": "serine/threonine-protein kinase mTOR; FK506 binding protein 12-rapamycin associated protein 2; FK506-binding protein 12-rapamycin complex-associated protein 1; FKBP-rapamycin associated protein; FKBP12-rapamycin complex-associated protein 1; mammalian target of rapamycin; mechanistic target of rapamycin (serine/threonine kinase); rapamycin and FKBP12 target 1; rapamycin associated protein FRAP2; rapamycin target protein 1",
+        "Summary": "The protein encoded by this gene belongs to a family of phosphatidylinositol kinase-related kinases. These kinases mediate cellular responses to stresses such as DNA damage and nutrient deprivation. This protein acts as the target for the cell-cycle arrest and immunosuppressive effects of the FKBP12-rapamycin complex. The ANGPTL7 gene is located in an intron of this gene. [provided by RefSeq, Sep 2008]",
+        "Entrez Gene ID": {
+            "text": "2475",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=2475"
+        },
+        "MIM": {
+            "text": "601231",
+            "href": "https://omim.org/entry/601231"
+        },
+        "HGNC": {
+            "text": "HGNC:3942",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3942"
+        },
+        "Ensembl": {
+            "text": "ENSG00000198793",
+            "href": "http://www.ensembl.org/id/ENSG00000198793"
+        }
+    },
+    {
+        "Gene ID": 3091,
+        "Name": "HIF1A",
+        "Symbol": "HIF1A (provided by HGNC)",
+        "Full Name": "hypoxia inducible factor 1 subunit alpha",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "HIF-1-alpha; HIF-1A; HIF-1alpha; HIF1; HIF1-ALPHA; MOP1; PASD8; bHLHe78",
+        "Synonyms_list": [
+            "HIF-1-alpha",
+            "HIF-1A",
+            "HIF-1alpha",
+            "HIF1",
+            "HIF1-ALPHA",
+            "MOP1",
+            "PASD8",
+            "bHLHe78"
+        ],
+        "Chromosome": "14",
+        "Map location": "14q23.2",
+        "General protein information": "hypoxia-inducible factor 1-alpha; ARNT interacting protein; PAS domain-containing protein 8; basic-helix-loop-helix-PAS protein MOP1; class E basic helix-loop-helix protein 78; hypoxia inducible factor 1 alpha subunit; hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor); hypoxia-inducible factor 1 alpha isoform I.3; hypoxia-inducible factor1alpha; member of PAS protein 1; member of PAS superfamily 1",
+        "Summary": "This gene encodes the alpha subunit of transcription factor hypoxia-inducible factor-1 (HIF-1), which is a heterodimer composed of an alpha and a beta subunit. HIF-1 functions as a master regulator of cellular and systemic homeostatic response to hypoxia by activating transcription of many genes, including those involved in energy metabolism, angiogenesis, apoptosis, and other genes whose protein products increase oxygen delivery or facilitate metabolic adaptation to hypoxia. HIF-1 thus plays an essential role in embryonic vascularization, tumor angiogenesis and pathophysiology of ischemic disease. Alternatively spliced transcript variants encoding different isoforms have been identified for this gene. [provided by RefSeq, Jul 2011]",
+        "Entrez Gene ID": {
+            "text": "3091",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3091"
+        },
+        "MIM": {
+            "text": "603348",
+            "href": "https://omim.org/entry/603348"
+        },
+        "HGNC": {
+            "text": "HGNC:4910",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:4910"
+        },
+        "Ensembl": {
+            "text": "ENSG00000100644",
+            "href": "http://www.ensembl.org/id/ENSG00000100644"
+        }
+    },
+    {
+        "Gene ID": 3150,
+        "Name": "HMGN1",
+        "Symbol": "HMGN1 (provided by HGNC)",
+        "Full Name": "high mobility group nucleosome binding domain 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "HMG14",
+        "Synonyms_list": [
+            "HMG14"
+        ],
+        "Chromosome": "21",
+        "Map location": "21q22.2",
+        "General protein information": "non-histone chromosomal protein HMG-14; high mobility group nucleosome-binding domain-containing protein 1; high-mobility group (nonhistone chromosomal) protein 14; high-mobility group nucleosome binding 1; nonhistone chromosomal protein HMG-14",
+        "Summary": "The protein encoded by this gene binds nucleosomal DNA and is associated with transcriptionally active chromatin. Along with a similar protein, HMG17, the encoded protein may help maintain an open chromatin configuration around transcribable genes. [provided by RefSeq, Aug 2011]",
+        "Entrez Gene ID": {
+            "text": "3150",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3150"
+        },
+        "MIM": {
+            "text": "163920",
+            "href": "https://omim.org/entry/163920"
+        },
+        "HGNC": {
+            "text": "HGNC:4984",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:4984"
+        },
+        "Ensembl": {
+            "text": "ENSG00000205581",
+            "href": "http://www.ensembl.org/id/ENSG00000205581"
+        }
+    },
+    {
+        "Gene ID": 3320,
+        "Name": "HSP90AA1",
+        "Symbol": "HSP90AA1 (provided by HGNC)",
+        "Full Name": "heat shock protein 90 alpha family class A member 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "EL52; HEL-S-65p; HSP86; HSP89A; HSP90A; HSP90N; HSPC1; HSPCA; HSPCAL1; HSPCAL4; HSPN; Hsp103; Hsp89; Hsp90; LAP-2; LAP2",
+        "Synonyms_list": [
+            "EL52",
+            "HEL-S-65p",
+            "HSP86",
+            "HSP89A",
+            "HSP90A",
+            "HSP90N",
+            "HSPC1",
+            "HSPCA",
+            "HSPCAL1",
+            "HSPCAL4",
+            "HSPN",
+            "Hsp103",
+            "Hsp89",
+            "Hsp90",
+            "LAP-2",
+            "LAP2"
+        ],
+        "Chromosome": "14",
+        "Map location": "14q32.31",
+        "General protein information": "heat shock protein HSP 90-alpha; HSP 86; LPS-associated protein 2; epididymis luminal secretory protein 52; epididymis secretory sperm binding protein Li 65p; heat shock 86 kDa; heat shock 90kD protein 1, alpha; heat shock 90kD protein 1, alpha-like 4; heat shock 90kD protein, alpha-like 4; heat shock 90kDa protein 1, alpha; heat shock protein 90kDa alpha (cytosolic), class A member 1; heat shock protein 90kDa alpha family class A member 1; lipopolysaccharide-associated protein 2; renal carcinoma antigen NY-REN-38",
+        "Summary": "The protein encoded by this gene is an inducible molecular chaperone that functions as a homodimer. The encoded protein aids in the proper folding of specific target proteins by use of an ATPase activity that is modulated by co-chaperones. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jan 2012]",
+        "Entrez Gene ID": {
+            "text": "3320",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3320"
+        },
+        "MIM": {
+            "text": "140571",
+            "href": "https://omim.org/entry/140571"
+        },
+        "HGNC": {
+            "text": "HGNC:5253",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5253"
+        },
+        "Ensembl": {
+            "text": "ENSG00000080824",
+            "href": "http://www.ensembl.org/id/ENSG00000080824"
+        }
+    },
+    {
+        "Gene ID": 3458,
+        "Name": "IFNG",
+        "Symbol": "IFNG (provided by HGNC)",
+        "Full Name": "interferon gamma",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IFG; IFI",
+        "Synonyms_list": [
+            "IFG",
+            "IFI"
+        ],
+        "Chromosome": "12",
+        "Map location": "12q15",
+        "General protein information": "interferon gamma; IFN-gamma; immune interferon",
+        "Summary": "This gene encodes a soluble cytokine that is a member of the type II interferon class. The encoded protein is secreted by cells of both the innate and adaptive immune systems. The active protein is a homodimer that binds to the interferon gamma receptor which triggers a cellular response to viral and microbial infections. Mutations in this gene are associated with an increased susceptibility to viral, bacterial and parasitic infections and to several autoimmune diseases. [provided by RefSeq, Dec 2015]",
+        "Entrez Gene ID": {
+            "text": "3458",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3458"
+        },
+        "MIM": {
+            "text": "147570",
+            "href": "https://omim.org/entry/147570"
+        },
+        "HGNC": {
+            "text": "HGNC:5438",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5438"
+        },
+        "Ensembl": {
+            "text": "ENSG00000111537",
+            "href": "http://www.ensembl.org/id/ENSG00000111537"
+        }
+    },
+    {
+        "Gene ID": 3480,
+        "Name": "IGF1R",
+        "Symbol": "IGF1R (provided by HGNC)",
+        "Full Name": "insulin like growth factor 1 receptor",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD221; IGFIR; IGFR; JTK13",
+        "Synonyms_list": [
+            "CD221",
+            "IGFIR",
+            "IGFR",
+            "JTK13"
+        ],
+        "Chromosome": "15",
+        "Map location": "15q26.3",
+        "General protein information": "insulin-like growth factor 1 receptor; IGF-I receptor; soluble IGF1R variant 1; soluble IGF1R variant 2",
+        "Summary": "This receptor binds insulin-like growth factor with a high affinity. It has tyrosine kinase activity. The insulin-like growth factor I receptor plays a critical role in transformation events. Cleavage of the precursor generates alpha and beta subunits. It is highly overexpressed in most malignant tissues where it functions as an anti-apoptotic agent by enhancing cell survival. Alternatively spliced transcript variants encoding distinct isoforms have been found for this gene. [provided by RefSeq, May 2014]",
+        "Entrez Gene ID": {
+            "text": "3480",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3480"
+        },
+        "MIM": {
+            "text": "147370",
+            "href": "https://omim.org/entry/147370"
+        },
+        "HGNC": {
+            "text": "HGNC:5465",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5465"
+        },
+        "Ensembl": {
+            "text": "ENSG00000140443",
+            "href": "http://www.ensembl.org/id/ENSG00000140443"
+        }
+    },
+    {
+        "Gene ID": 3552,
+        "Name": "IL1A",
+        "Symbol": "IL1A (provided by HGNC)",
+        "Full Name": "interleukin 1 alpha",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-1 alpha; IL-1A; IL1; IL1-ALPHA; IL1F1",
+        "Synonyms_list": [
+            "IL-1 alpha",
+            "IL-1A",
+            "IL1",
+            "IL1-ALPHA",
+            "IL1F1"
+        ],
+        "Chromosome": "2",
+        "Map location": "2q14.1",
+        "General protein information": "interleukin-1 alpha; hematopoietin-1; preinterleukin 1 alpha; pro-interleukin-1-alpha",
+        "Summary": "The protein encoded by this gene is a member of the interleukin 1 cytokine family. This cytokine is a pleiotropic cytokine involved in various immune responses, inflammatory processes, and hematopoiesis. This cytokine is produced by monocytes and macrophages as a proprotein, which is proteolytically processed and released in response to cell injury, and thus induces apoptosis. This gene and eight other interleukin 1 family genes form a cytokine gene cluster on chromosome 2. It has been suggested that the polymorphism of these genes is associated with rheumatoid arthritis and Alzheimer's disease. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3552",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3552"
+        },
+        "MIM": {
+            "text": "147760",
+            "href": "https://omim.org/entry/147760"
+        },
+        "HGNC": {
+            "text": "HGNC:5991",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5991"
+        },
+        "Ensembl": {
+            "text": "ENSG00000115008",
+            "href": "http://www.ensembl.org/id/ENSG00000115008"
+        }
+    },
+    {
+        "Gene ID": 3553,
+        "Name": "IL1B",
+        "Symbol": "IL1B (provided by HGNC)",
+        "Full Name": "interleukin 1 beta",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-1; IL1-BETA; IL1F2; IL1beta",
+        "Synonyms_list": [
+            "IL-1",
+            "IL1-BETA",
+            "IL1F2",
+            "IL1beta"
+        ],
+        "Chromosome": "2",
+        "Map location": "2q14.1",
+        "General protein information": "interleukin-1 beta; IL-1 beta; catabolin; interleukin 1beta; preinterleukin 1 beta; pro-interleukin-1-beta",
+        "Summary": "The protein encoded by this gene is a member of the interleukin 1 cytokine family. This cytokine is produced by activated macrophages as a proprotein, which is proteolytically processed to its active form by caspase 1 (CASP1/ICE). This cytokine is an important mediator of the inflammatory response, and is involved in a variety of cellular activities, including cell proliferation, differentiation, and apoptosis. The induction of cyclooxygenase-2 (PTGS2/COX2) by this cytokine in the central nervous system (CNS) is found to contribute to inflammatory pain hypersensitivity. This gene and eight other interleukin 1 family genes form a cytokine gene cluster on chromosome 2. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3553",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3553"
+        },
+        "MIM": {
+            "text": "147720",
+            "href": "https://omim.org/entry/147720"
+        },
+        "HGNC": {
+            "text": "HGNC:5992",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5992"
+        },
+        "Ensembl": {
+            "text": "ENSG00000125538",
+            "href": "http://www.ensembl.org/id/ENSG00000125538"
+        }
+    },
+    {
+        "Gene ID": 3557,
+        "Name": "IL1RN",
+        "Symbol": "IL1RN (provided by HGNC)",
+        "Full Name": "interleukin 1 receptor antagonist",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "DIRA; ICIL-1RA; IL-1RN; IL-1ra; IL-1ra3; IL1F3; IL1RA; IRAP; MVCD4",
+        "Synonyms_list": [
+            "DIRA",
+            "ICIL-1RA",
+            "IL-1RN",
+            "IL-1ra",
+            "IL-1ra3",
+            "IL1F3",
+            "IL1RA",
+            "IRAP",
+            "MVCD4"
+        ],
+        "Chromosome": "2",
+        "Map location": "2q14.1",
+        "General protein information": "interleukin-1 receptor antagonist protein; IL1 inhibitor; intracellular IL-1 receptor antagonist type II; intracellular interleukin-1 receptor antagonist (icIL-1ra); type II interleukin-1 receptor antagonist",
+        "Summary": "The protein encoded by this gene is a member of the interleukin 1 cytokine family. This protein inhibits the activities of interleukin 1, alpha (IL1A) and interleukin 1, beta (IL1B), and modulates a variety of interleukin 1 related immune and inflammatory responses. This gene and five other closely related cytokine genes form a gene cluster spanning approximately 400 kb on chromosome 2. A polymorphism of this gene is reported to be associated with increased risk of osteoporotic fractures and gastric cancer. Several alternatively spliced transcript variants encoding distinct isoforms have been reported. [provided by RefSeq, Jan 2016]",
+        "Entrez Gene ID": {
+            "text": "3557",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3557"
+        },
+        "MIM": {
+            "text": "147679",
+            "href": "https://omim.org/entry/147679"
+        },
+        "HGNC": {
+            "text": "HGNC:6000",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6000"
+        },
+        "Ensembl": {
+            "text": "ENSG00000136689",
+            "href": "http://www.ensembl.org/id/ENSG00000136689"
+        }
+    },
+    {
+        "Gene ID": 3558,
+        "Name": "IL2",
+        "Symbol": "IL2 (provided by HGNC)",
+        "Full Name": "interleukin 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-2; TCGF; lymphokine",
+        "Synonyms_list": [
+            "IL-2",
+            "TCGF",
+            "lymphokine"
+        ],
+        "Chromosome": "4",
+        "Map location": "4q27",
+        "General protein information": "interleukin-2; T cell growth factor; aldesleukin; involved in regulation of T-cell clonal expansion",
+        "Summary": "The protein encoded by this gene is a secreted cytokine that is important for the proliferation of T and B lymphocytes. The receptor of this cytokine is a heterotrimeric protein complex whose gamma chain is also shared by interleukin 4 (IL4) and interleukin 7 (IL7). The expression of this gene in mature thymocytes is monoallelic, which represents an unusual regulatory mode for controlling the precise expression of a single gene. The targeted disruption of a similar gene in mice leads to ulcerative colitis-like disease, which suggests an essential role of this gene in the immune response to antigenic stimuli. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3558",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3558"
+        },
+        "MIM": {
+            "text": "147680",
+            "href": "https://omim.org/entry/147680"
+        },
+        "HGNC": {
+            "text": "HGNC:6001",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6001"
+        },
+        "Ensembl": {
+            "text": "ENSG00000109471",
+            "href": "http://www.ensembl.org/id/ENSG00000109471"
+        }
+    },
+    {
+        "Gene ID": 3562,
+        "Name": "IL3",
+        "Symbol": "IL3 (provided by HGNC)",
+        "Full Name": "interleukin 3",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-3; MCGF; MULTI-CSF",
+        "Synonyms_list": [
+            "IL-3",
+            "MCGF",
+            "MULTI-CSF"
+        ],
+        "Chromosome": "5",
+        "Map location": "5q31.1",
+        "General protein information": "interleukin-3; P-cell stimulating factor; colony-stimulating factor, multiple; hematopoietic growth factor; mast-cell growth factor; multilineage-colony-stimulating factor; multipotential colony-stimulating factor",
+        "Summary": "The protein encoded by this gene is a potent growth promoting cytokine. This cytokine is capable of supporting the proliferation of a broad range of hematopoietic cell types. It is involved in a variety of cell activities such as cell growth, differentiation and apoptosis. This cytokine has been shown to also possess neurotrophic activity, and it may be associated with neurologic disorders. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3562",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3562"
+        },
+        "MIM": {
+            "text": "147740",
+            "href": "https://omim.org/entry/147740"
+        },
+        "HGNC": {
+            "text": "HGNC:6011",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6011"
+        },
+        "Ensembl": {
+            "text": "ENSG00000164399",
+            "href": "http://www.ensembl.org/id/ENSG00000164399"
+        }
+    },
+    {
+        "Gene ID": 3569,
+        "Name": "IL6",
+        "Symbol": "IL6 (provided by HGNC)",
+        "Full Name": "interleukin 6",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "BSF-2; BSF2; CDF; HGF; HSF; IFN-beta-2; IFNB2; IL-6",
+        "Synonyms_list": [
+            "BSF-2",
+            "BSF2",
+            "CDF",
+            "HGF",
+            "HSF",
+            "IFN-beta-2",
+            "IFNB2",
+            "IL-6"
+        ],
+        "Chromosome": "7",
+        "Map location": "7p15.3",
+        "General protein information": "interleukin-6; B-cell differentiation factor; B-cell stimulatory factor 2; CTL differentiation factor; hybridoma growth factor; interferon beta-2; interleukin BSF-2",
+        "Summary": "This gene encodes a cytokine that functions in inflammation and the maturation of B cells. In addition, the encoded protein has been shown to be an endogenous pyrogen capable of inducing fever in people with autoimmune diseases or infections. The protein is primarily produced at sites of acute and chronic inflammation, where it is secreted into the serum and induces a transcriptional inflammatory response through interleukin 6 receptor, alpha. The functioning of this gene is implicated in a wide variety of inflammation-associated disease states, including suspectibility to diabetes mellitus and systemic juvenile rheumatoid arthritis. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2015]",
+        "Entrez Gene ID": {
+            "text": "3569",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3569"
+        },
+        "MIM": {
+            "text": "147620",
+            "href": "https://omim.org/entry/147620"
+        },
+        "HGNC": {
+            "text": "HGNC:6018",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6018"
+        },
+        "Ensembl": {
+            "text": "ENSG00000136244",
+            "href": "http://www.ensembl.org/id/ENSG00000136244"
+        }
+    },
+    {
+        "Gene ID": 3574,
+        "Name": "IL7",
+        "Symbol": "IL7 (provided by HGNC)",
+        "Full Name": "interleukin 7",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-7",
+        "Synonyms_list": [
+            "IL-7"
+        ],
+        "Chromosome": "8",
+        "Map location": "8q21.13",
+        "General protein information": "interleukin-7",
+        "Summary": "The protein encoded by this gene is a cytokine important for B and T cell development. This cytokine and the hepatocyte growth factor (HGF) form a heterodimer that functions as a pre-pro-B cell growth-stimulating factor. This cytokine is found to be a cofactor for V(D)J rearrangement of the T cell receptor beta (TCRB) during early T cell development. This cytokine can be produced locally by intestinal epithelial and epithelial goblet cells, and may serve as a regulatory factor for intestinal mucosal lymphocytes. Knockout studies in mice suggested that this cytokine plays an essential role in lymphoid cell survival. Alternative splicing results in multiple transcript variants encoding distinct isoforms. Additional splice variants have been described but their presence in normal tissues has not been confirmed.[provided by RefSeq, Dec 2010]",
+        "Entrez Gene ID": {
+            "text": "3574",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3574"
+        },
+        "MIM": {
+            "text": "146660",
+            "href": "https://omim.org/entry/146660"
+        },
+        "HGNC": {
+            "text": "HGNC:6023",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6023"
+        },
+        "Ensembl": {
+            "text": "ENSG00000104432",
+            "href": "http://www.ensembl.org/id/ENSG00000104432"
+        }
+    },
+    {
+        "Gene ID": 3576,
+        "Name": "CXCL8",
+        "Symbol": "CXCL8 (provided by HGNC)",
+        "Full Name": "C-X-C motif chemokine ligand 8",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "GCP-1; GCP1; IL8; LECT; LUCT; LYNAP; MDNCF; MONAP; NAF; NAP-1; NAP1; SCYB8",
+        "Synonyms_list": [
+            "GCP-1",
+            "GCP1",
+            "IL8",
+            "LECT",
+            "LUCT",
+            "LYNAP",
+            "MDNCF",
+            "MONAP",
+            "NAF",
+            "NAP-1",
+            "NAP1",
+            "SCYB8"
+        ],
+        "Chromosome": "4",
+        "Map location": "4q13.3",
+        "General protein information": "interleukin-8; T-cell chemotactic factor; alveolar macrophage chemotactic factor I; beta endothelial cell-derived neutrophil activating peptide; beta-thromboglobulin-like protein; chemokine (C-X-C motif) ligand 8; emoctakin; granulocyte chemotactic protein 1; interleukin 8; lung giant cell carcinoma-derived chemotactic protein; lymphocyte derived neutrophil activating peptide; monocyte-derived neutrophil chemotactic factor; monocyte-derived neutrophil-activating peptide; neutrophil-activating peptide 1; small inducible cytokine subfamily B, member 8; tumor necrosis factor-induced gene 1",
+        "Summary": "The protein encoded by this gene is a member of the CXC chemokine family and is a major mediator of the inflammatory response. The encoded protein is commonly referred to as interleukin-8 (IL-8). IL-8 is secreted by mononuclear macrophages, neutrophils, eosinophils, T lymphocytes, epithelial cells, and fibroblasts. It functions as a chemotactic factor by guiding the neutrophils to the site of infection. Bacterial and viral products rapidly induce IL-8 expression. IL-8 also participates with other cytokines in the proinflammatory signaling cascade and plays a role in systemic inflammatory response syndrome (SIRS). This gene is believed to play a role in the pathogenesis of the lower respiratory tract infection bronchiolitis, a common respiratory tract disease caused by the respiratory syncytial virus (RSV). The overproduction of this proinflammatory protein is thought to cause the lung inflammation associated with csytic fibrosis. This proinflammatory protein is also suspected of playing a role in coronary artery disease and endothelial dysfunction. This protein is also secreted by tumor cells and promotes tumor migration, invasion, angiogenesis and metastasis. This chemokine is also a potent angiogenic factor. The binding of IL-8 to one of its receptors (IL-8RB/CXCR2) increases the permeability of blood vessels and increasing levels of IL-8 are positively correlated with increased severity of multiple disease outcomes (eg, sepsis). This gene and other members of the CXC chemokine gene family form a gene cluster in a region of chromosome 4q. [provided by RefSeq, May 2020]",
+        "Entrez Gene ID": {
+            "text": "3576",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3576"
+        },
+        "MIM": {
+            "text": "146930",
+            "href": "https://omim.org/entry/146930"
+        },
+        "HGNC": {
+            "text": "HGNC:6025",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6025"
+        },
+        "Ensembl": {
+            "text": "ENSG00000169429",
+            "href": "http://www.ensembl.org/id/ENSG00000169429"
+        }
+    },
+    {
+        "Gene ID": 3586,
+        "Name": "IL10",
+        "Symbol": "IL10 (provided by HGNC)",
+        "Full Name": "interleukin 10",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CSIF; GVHDS; IL-10; IL10A; TGIF",
+        "Synonyms_list": [
+            "CSIF",
+            "GVHDS",
+            "IL-10",
+            "IL10A",
+            "TGIF"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q32.1",
+        "General protein information": "interleukin-10; T-cell growth inhibitory factor; cytokine synthesis inhibitory factor",
+        "Summary": "The protein encoded by this gene is a cytokine produced primarily by monocytes and to a lesser extent by lymphocytes. This cytokine has pleiotropic effects in immunoregulation and inflammation. It down-regulates the expression of Th1 cytokines, MHC class II Ags, and costimulatory molecules on macrophages. It also enhances B cell survival, proliferation, and antibody production. This cytokine can block NF-kappa B activity, and is involved in the regulation of the JAK-STAT signaling pathway. Knockout studies in mice suggested the function of this cytokine as an essential immunoregulator in the intestinal tract. Mutations in this gene are associated with an increased susceptibility to HIV-1 infection and rheumatoid arthritis. [provided by RefSeq, May 2020]",
+        "Entrez Gene ID": {
+            "text": "3586",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3586"
+        },
+        "MIM": {
+            "text": "124092",
+            "href": "https://omim.org/entry/124092"
+        },
+        "HGNC": {
+            "text": "HGNC:5962",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5962"
+        },
+        "Ensembl": {
+            "text": "ENSG00000136634",
+            "href": "http://www.ensembl.org/id/ENSG00000136634"
+        }
+    },
+    {
+        "Gene ID": 3596,
+        "Name": "IL13",
+        "Symbol": "IL13 (provided by HGNC)",
+        "Full Name": "interleukin 13",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-13; P600",
+        "Synonyms_list": [
+            "IL-13",
+            "P600"
+        ],
+        "Chromosome": "5",
+        "Map location": "5q31.1",
+        "General protein information": "interleukin-13",
+        "Summary": "This gene encodes an immunoregulatory cytokine produced primarily by activated Th2 cells. This cytokine is involved in several stages of B-cell maturation and differentiation. It up-regulates CD23 and MHC class II expression, and promotes IgE isotype switching of B cells. This cytokine down-regulates macrophage activity, thereby inhibits the production of pro-inflammatory cytokines and chemokines. This cytokine is found to be critical to the pathogenesis of allergen-induced asthma but operates through mechanisms independent of IgE and eosinophils. This gene, IL3, IL5, IL4, and CSF2 form a cytokine gene cluster on chromosome 5q, with this gene particularly close to IL4. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3596",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3596"
+        },
+        "MIM": {
+            "text": "147683",
+            "href": "https://omim.org/entry/147683"
+        },
+        "HGNC": {
+            "text": "HGNC:5973",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5973"
+        },
+        "Ensembl": {
+            "text": "ENSG00000169194",
+            "href": "http://www.ensembl.org/id/ENSG00000169194"
+        }
+    },
+    {
+        "Gene ID": 3605,
+        "Name": "IL17A",
+        "Symbol": "IL17A (provided by HGNC)",
+        "Full Name": "interleukin 17A",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CTLA-8; CTLA8; IL-17; IL-17A; IL17",
+        "Synonyms_list": [
+            "CTLA-8",
+            "CTLA8",
+            "IL-17",
+            "IL-17A",
+            "IL17"
+        ],
+        "Chromosome": "6",
+        "Map location": "6p12.2",
+        "General protein information": "interleukin-17A; cytotoxic T-lymphocyte-associated antigen 8; cytotoxic T-lymphocyte-associated protein 8; interleukin 17 (cytotoxic T-lymphocyte-associated serine esterase 8)",
+        "Summary": "The protein encoded by this gene is a proinflammatory cytokine produced by activated T cells. This cytokine regulates the activities of NF-kappaB and mitogen-activated protein kinases. This cytokine can stimulate the expression of IL6 and cyclooxygenase-2 (PTGS2/COX-2), as well as enhance the production of nitric oxide (NO). High levels of this cytokine are associated with several chronic inflammatory diseases including rheumatoid arthritis, psoriasis and multiple sclerosis. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3605",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3605"
+        },
+        "MIM": {
+            "text": "603149",
+            "href": "https://omim.org/entry/603149"
+        },
+        "HGNC": {
+            "text": "HGNC:5981",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:5981"
+        },
+        "Ensembl": {
+            "text": "ENSG00000112115",
+            "href": "http://www.ensembl.org/id/ENSG00000112115"
+        }
+    },
+    {
+        "Gene ID": 3630,
+        "Name": "INS",
+        "Symbol": "INS (provided by HGNC)",
+        "Full Name": "insulin",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IDDM; IDDM1; IDDM2; ILPR; IRDN; MODY10; PNDM4",
+        "Synonyms_list": [
+            "IDDM",
+            "IDDM1",
+            "IDDM2",
+            "ILPR",
+            "IRDN",
+            "MODY10",
+            "PNDM4"
+        ],
+        "Chromosome": "11",
+        "Map location": "11p15.5",
+        "General protein information": "insulin; preproinsulin; proinsulin",
+        "Summary": "This gene encodes insulin, a peptide hormone that plays a vital role in the regulation of carbohydrate and lipid metabolism. After removal of the precursor signal peptide, proinsulin is post-translationally cleaved into three peptides: the B chain and A chain peptides, which are covalently linked via two disulfide bonds to form insulin, and C-peptide. Binding of insulin to the insulin receptor (INSR) stimulates glucose uptake. A multitude of mutant alleles with phenotypic effects have been identified, including insulin-dependent diabetes mellitus, permanent neonatal diabetes diabetes mellitus, maturity-onset diabetes of the young type 10 and hyperproinsulinemia. There is a read-through gene, INS-IGF2, which overlaps with this gene at the 5' region and with the IGF2 gene at the 3' region. [provided by RefSeq, May 2020]",
+        "Entrez Gene ID": {
+            "text": "3630",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3630"
+        },
+        "MIM": {
+            "text": "176730",
+            "href": "https://omim.org/entry/176730"
+        },
+        "HGNC": {
+            "text": "HGNC:6081",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6081"
+        },
+        "Ensembl": {
+            "text": "ENSG00000254647",
+            "href": "http://www.ensembl.org/id/ENSG00000254647"
+        }
+    },
+    {
+        "Gene ID": 3643,
+        "Name": "INSR",
+        "Symbol": "INSR (provided by HGNC)",
+        "Full Name": "insulin receptor",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD220; HHF5",
+        "Synonyms_list": [
+            "CD220",
+            "HHF5"
+        ],
+        "Chromosome": "19",
+        "Map location": "19p13.2",
+        "General protein information": "insulin receptor; IR",
+        "Summary": "This gene encodes a member of the receptor tyrosine kinase family of proteins. The encoded preproprotein is proteolytically processed to generate alpha and beta subunits that form a heterotetrameric receptor. Binding of insulin or other ligands to this receptor activates the insulin signaling pathway, which regulates glucose uptake and release, as well as the synthesis and storage of carbohydrates, lipids and protein. Mutations in this gene underlie the inherited severe insulin resistance syndromes including type A insulin resistance syndrome, Donohue syndrome and Rabson-Mendenhall syndrome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Oct 2015]",
+        "Entrez Gene ID": {
+            "text": "3643",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3643"
+        },
+        "MIM": {
+            "text": "147670",
+            "href": "https://omim.org/entry/147670"
+        },
+        "HGNC": {
+            "text": "HGNC:6091",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6091"
+        },
+        "Ensembl": {
+            "text": "ENSG00000171105",
+            "href": "http://www.ensembl.org/id/ENSG00000171105"
+        }
+    },
+    {
+        "Gene ID": 3654,
+        "Name": "IRAK1",
+        "Symbol": "IRAK1 (provided by HGNC)",
+        "Full Name": "interleukin 1 receptor associated kinase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IRAK; pelle",
+        "Synonyms_list": [
+            "IRAK",
+            "pelle"
+        ],
+        "Chromosome": "X",
+        "Map location": "Xq28",
+        "General protein information": "interleukin-1 receptor-associated kinase 1; IRAK-1; Pelle homolog",
+        "Summary": "This gene encodes the interleukin-1 receptor-associated kinase 1, one of two putative serine/threonine kinases that become associated with the interleukin-1 receptor (IL1R) upon stimulation. This gene is partially responsible for IL1-induced upregulation of the transcription factor NF-kappa B. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3654",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3654"
+        },
+        "MIM": {
+            "text": "300283",
+            "href": "https://omim.org/entry/300283"
+        },
+        "HGNC": {
+            "text": "HGNC:6112",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6112"
+        },
+        "Ensembl": {
+            "text": "ENSG00000184216",
+            "href": "http://www.ensembl.org/id/ENSG00000184216"
+        }
+    },
+    {
+        "Gene ID": 3656,
+        "Name": "IRAK2",
+        "Symbol": "IRAK2 (provided by HGNC)",
+        "Full Name": "interleukin 1 receptor associated kinase 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IRAK-2",
+        "Synonyms_list": [
+            "IRAK-2"
+        ],
+        "Chromosome": "3",
+        "Map location": "3p25.3",
+        "General protein information": "interleukin-1 receptor-associated kinase-like 2",
+        "Summary": "IRAK2 encodes the interleukin-1 receptor-associated kinase 2, one of two putative serine/threonine kinases that become associated with the interleukin-1 receptor (IL1R) upon stimulation. IRAK2 is reported to participate in the IL1-induced upregulation of NF-kappaB. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "3656",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3656"
+        },
+        "MIM": {
+            "text": "603304",
+            "href": "https://omim.org/entry/603304"
+        },
+        "HGNC": {
+            "text": "HGNC:6113",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6113"
+        },
+        "Ensembl": {
+            "text": "ENSG00000134070",
+            "href": "http://www.ensembl.org/id/ENSG00000134070"
+        }
+    },
+    {
+        "Gene ID": 3664,
+        "Name": "IRF6",
+        "Symbol": "IRF6 (provided by HGNC)",
+        "Full Name": "interferon regulatory factor 6",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "LPS; OFC6; PIT; PPS; PPS1; VWS; VWS1",
+        "Synonyms_list": [
+            "LPS",
+            "OFC6",
+            "PIT",
+            "PPS",
+            "PPS1",
+            "VWS",
+            "VWS1"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q32.2",
+        "General protein information": "interferon regulatory factor 6",
+        "Summary": "This gene encodes a member of the interferon regulatory transcription factor (IRF) family. Family members share a highly-conserved N-terminal helix-turn-helix DNA-binding domain and a less conserved C-terminal protein-binding domain. The encoded protein may be a transcriptional activator. Mutations in this gene can cause van der Woude syndrome and popliteal pterygium syndrome. Mutations in this gene are also associated with non-syndromic orofacial cleft type 6. Alternate splicing results in multiple transcript variants.[provided by RefSeq, May 2011]",
+        "Entrez Gene ID": {
+            "text": "3664",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=3664"
+        },
+        "MIM": {
+            "text": "607199",
+            "href": "https://omim.org/entry/607199"
+        },
+        "HGNC": {
+            "text": "HGNC:6121",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6121"
+        },
+        "Ensembl": {
+            "text": "ENSG00000117595",
+            "href": "http://www.ensembl.org/id/ENSG00000117595"
+        }
+    },
+    {
+        "Gene ID": 4018,
+        "Name": "LPA",
+        "Symbol": "LPA (provided by HGNC)",
+        "Full Name": "lipoprotein(a)",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "AK38; APOA; LP",
+        "Synonyms_list": [
+            "AK38",
+            "APOA",
+            "LP"
+        ],
+        "Chromosome": "6",
+        "Map location": "6q25.3-q26",
+        "General protein information": "apolipoprotein(a); antiangiogenic AK38 protein; apo(a); lipoprotein, Lp(a); lp(a)",
+        "Summary": "The protein encoded by this gene is a serine proteinase that inhibits the activity of tissue-type plasminogen activator I. The encoded protein constitutes a substantial portion of lipoprotein(a) and is proteolytically cleaved, resulting in fragments that attach to atherosclerotic lesions and promote thrombogenesis. Elevated plasma levels of this protein are linked to atherosclerosis. Depending on the individual, the encoded protein contains 2-43 copies of kringle-type domains. The allele represented here contains 15 copies of the kringle-type repeats and corresponds to that found in the reference genome sequence. [provided by RefSeq, Dec 2009]",
+        "Entrez Gene ID": {
+            "text": "4018",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=4018"
+        },
+        "MIM": {
+            "text": "152200",
+            "href": "https://omim.org/entry/152200"
+        },
+        "HGNC": {
+            "text": "HGNC:6667",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6667"
+        },
+        "Ensembl": {
+            "text": "ENSG00000198670",
+            "href": "http://www.ensembl.org/id/ENSG00000198670"
+        }
+    },
+    {
+        "Gene ID": 4598,
+        "Name": "MVK",
+        "Symbol": "MVK (provided by HGNC)",
+        "Full Name": "mevalonate kinase",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "LRBP; MK; MVLK; POROK3",
+        "Synonyms_list": [
+            "LRBP",
+            "MK",
+            "MVLK",
+            "POROK3"
+        ],
+        "Chromosome": "12",
+        "Map location": "12q24.11",
+        "General protein information": "mevalonate kinase; LH receptor mRNA-binding protein; mevalonate kinase 1",
+        "Summary": "This gene encodes the peroxisomal enzyme mevalonate kinase. Mevalonate is a key intermediate, and mevalonate kinase a key early enzyme, in isoprenoid and sterol synthesis. Mevalonate kinase deficiency caused by mutation of this gene results in mevalonic aciduria, a disease characterized psychomotor retardation, failure to thrive, hepatosplenomegaly, anemia and recurrent febrile crises. Defects in this gene also cause hyperimmunoglobulinaemia D and periodic fever syndrome, a disorder characterized by recurrent episodes of fever associated with lymphadenopathy, arthralgia, gastrointestinal dismay and skin rash. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2014]",
+        "Entrez Gene ID": {
+            "text": "4598",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=4598"
+        },
+        "MIM": {
+            "text": "251170",
+            "href": "https://omim.org/entry/251170"
+        },
+        "HGNC": {
+            "text": "HGNC:7530",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:7530"
+        },
+        "Ensembl": {
+            "text": "ENSG00000110921",
+            "href": "http://www.ensembl.org/id/ENSG00000110921"
+        }
+    },
+    {
+        "Gene ID": 4792,
+        "Name": "NFKBIA",
+        "Symbol": "NFKBIA (provided by HGNC)",
+        "Full Name": "NFKB inhibitor alpha",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "EDAID2; IKBA; MAD-3; NFKBI",
+        "Synonyms_list": [
+            "EDAID2",
+            "IKBA",
+            "MAD-3",
+            "NFKBI"
+        ],
+        "Chromosome": "14",
+        "Map location": "14q13.2",
+        "General protein information": "NF-kappa-B inhibitor alpha; I-kappa-B-alpha; IkappaBalpha; ikB-alpha; major histocompatibility complex enhancer-binding protein MAD3; nuclear factor of kappa light chain gene enhancer in B-cells; nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha",
+        "Summary": "This gene encodes a member of the NF-kappa-B inhibitor family, which contain multiple ankrin repeat domains. The encoded protein interacts with REL dimers to inhibit NF-kappa-B/REL complexes which are involved in inflammatory responses. The encoded protein moves between the cytoplasm and the nucleus via a nuclear localization signal and CRM1-mediated nuclear export. Mutations in this gene have been found in ectodermal dysplasia anhidrotic with T-cell immunodeficiency autosomal dominant disease. [provided by RefSeq, Aug 2011]",
+        "Entrez Gene ID": {
+            "text": "4792",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=4792"
+        },
+        "MIM": {
+            "text": "164008",
+            "href": "https://omim.org/entry/164008"
+        },
+        "HGNC": {
+            "text": "HGNC:7797",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:7797"
+        },
+        "Ensembl": {
+            "text": "ENSG00000100906",
+            "href": "http://www.ensembl.org/id/ENSG00000100906"
+        }
+    },
+    {
+        "Gene ID": 5594,
+        "Name": "MAPK1",
+        "Symbol": "MAPK1 (provided by HGNC)",
+        "Full Name": "mitogen-activated protein kinase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "ERK; ERK-2; ERK2; ERT1; MAPK2; P42MAPK; PRKM1; PRKM2; p38; p40; p41; p41mapk; p42-MAPK",
+        "Synonyms_list": [
+            "ERK",
+            "ERK-2",
+            "ERK2",
+            "ERT1",
+            "MAPK2",
+            "P42MAPK",
+            "PRKM1",
+            "PRKM2",
+            "p38",
+            "p40",
+            "p41",
+            "p41mapk",
+            "p42-MAPK"
+        ],
+        "Chromosome": "22",
+        "Map location": "22q11.22",
+        "General protein information": "mitogen-activated protein kinase 1; MAP kinase 1; MAP kinase 2; MAP kinase isoform p42; MAPK 2; extracellular signal-regulated kinase 2; mitogen-activated protein kinase 2; protein tyrosine kinase ERK2",
+        "Summary": "This gene encodes a member of the MAP kinase family. MAP kinases, also known as extracellular signal-regulated kinases (ERKs), act as an integration point for multiple biochemical signals, and are involved in a wide variety of cellular processes such as proliferation, differentiation, transcription regulation and development. The activation of this kinase requires its phosphorylation by upstream kinases. Upon activation, this kinase translocates to the nucleus of the stimulated cells, where it phosphorylates nuclear targets. One study also suggests that this protein acts as a transcriptional repressor independent of its kinase activity. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Two alternatively spliced transcript variants encoding the same protein, but differing in the UTRs, have been reported for this gene. [provided by RefSeq, Jan 2014]",
+        "Entrez Gene ID": {
+            "text": "5594",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=5594"
+        },
+        "MIM": {
+            "text": "176948",
+            "href": "https://omim.org/entry/176948"
+        },
+        "HGNC": {
+            "text": "HGNC:6871",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6871"
+        },
+        "Ensembl": {
+            "text": "ENSG00000100030",
+            "href": "http://www.ensembl.org/id/ENSG00000100030"
+        }
+    },
+    {
+        "Gene ID": 5599,
+        "Name": "MAPK8",
+        "Symbol": "MAPK8 (provided by HGNC)",
+        "Full Name": "mitogen-activated protein kinase 8",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "JNK; JNK-46; JNK1; JNK1A2; JNK21B1/2; PRKM8; SAPK1; SAPK1c",
+        "Synonyms_list": [
+            "JNK",
+            "JNK-46",
+            "JNK1",
+            "JNK1A2",
+            "JNK21B1/2",
+            "PRKM8",
+            "SAPK1",
+            "SAPK1c"
+        ],
+        "Chromosome": "10",
+        "Map location": "10q11.22",
+        "General protein information": "mitogen-activated protein kinase 8; JUN N-terminal kinase; MAP kinase 8; c-Jun N-terminal kinase 1; mitogen-activated protein kinase 8 isoform JNK1 alpha1; mitogen-activated protein kinase 8 isoform JNK1 beta2; stress-activated protein kinase 1; stress-activated protein kinase 1c",
+        "Summary": "The protein encoded by this gene is a member of the MAP kinase family. MAP kinases act as an integration point for multiple biochemical signals, and are involved in a wide variety of cellular processes such as proliferation, differentiation, transcription regulation and development. This kinase is activated by various cell stimuli, and targets specific transcription factors, and thus mediates immediate-early gene expression in response to cell stimuli. The activation of this kinase by tumor-necrosis factor alpha (TNF-alpha) is found to be required for TNF-alpha induced apoptosis. This kinase is also involved in UV radiation induced apoptosis, which is thought to be related to cytochrom c-mediated cell death pathway. Studies of the mouse counterpart of this gene suggested that this kinase play a key role in T cell proliferation, apoptosis and differentiation. Several alternatively spliced transcript variants encoding distinct isoforms have been reported. [provided by RefSeq, Apr 2016]",
+        "Entrez Gene ID": {
+            "text": "5599",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=5599"
+        },
+        "MIM": {
+            "text": "601158",
+            "href": "https://omim.org/entry/601158"
+        },
+        "HGNC": {
+            "text": "HGNC:6881",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:6881"
+        },
+        "Ensembl": {
+            "text": "ENSG00000107643",
+            "href": "http://www.ensembl.org/id/ENSG00000107643"
+        }
+    },
+    {
+        "Gene ID": 6275,
+        "Name": "S100A4",
+        "Symbol": "S100A4 (provided by HGNC)",
+        "Full Name": "S100 calcium binding protein A4",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "18A2; 42A; CAPL; FSP1; MTS1; P9KA; PEL98",
+        "Synonyms_list": [
+            "18A2",
+            "42A",
+            "CAPL",
+            "FSP1",
+            "MTS1",
+            "P9KA",
+            "PEL98"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q21.3",
+        "General protein information": "protein S100-A4; S100 calcium-binding protein A4 (calcium protein, calvasculin, metastasin, murine placental homolog); calcium placental protein; fibroblast-specific protein-1; leukemia multidrug resistance associated protein; malignant transformation suppression 1; metastasin 1; murine placental homolog; placental calcium-binding protein; protein Mts1",
+        "Summary": "The protein encoded by this gene is a member of the S100 family of proteins containing 2 EF-hand calcium-binding motifs. S100 proteins are localized in the cytoplasm and/or nucleus of a wide range of cells, and involved in the regulation of a number of cellular processes such as cell cycle progression and differentiation. S100 genes include at least 13 members which are located as a cluster on chromosome 1q21. This protein may function in motility, invasion, and tubulin polymerization. Chromosomal rearrangements and altered expression of this gene have been implicated in tumor metastasis. Multiple alternatively spliced variants, encoding the same protein, have been identified. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "6275",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6275"
+        },
+        "MIM": {
+            "text": "114210",
+            "href": "https://omim.org/entry/114210"
+        },
+        "HGNC": {
+            "text": "HGNC:10494",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:10494"
+        },
+        "Ensembl": {
+            "text": "ENSG00000196154",
+            "href": "http://www.ensembl.org/id/ENSG00000196154"
+        }
+    },
+    {
+        "Gene ID": 6347,
+        "Name": "CCL2",
+        "Symbol": "CCL2 (provided by HGNC)",
+        "Full Name": "C-C motif chemokine ligand 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "GDCF-2; HC11; HSMCR30; MCAF; MCP-1; MCP1; SCYA2; SMC-CF",
+        "Synonyms_list": [
+            "GDCF-2",
+            "HC11",
+            "HSMCR30",
+            "MCAF",
+            "MCP-1",
+            "MCP1",
+            "SCYA2",
+            "SMC-CF"
+        ],
+        "Chromosome": "17",
+        "Map location": "17q12",
+        "General protein information": "C-C motif chemokine 2; chemokine (C-C motif) ligand 2; monocyte chemoattractant protein-1; monocyte chemotactic and activating factor; monocyte chemotactic protein 1; monocyte secretory protein JE; small inducible cytokine A2 (monocyte chemotactic protein 1, homologous to mouse Sig-je); small inducible cytokine subfamily A (Cys-Cys), member 2; small-inducible cytokine A2",
+        "Summary": "This gene is one of several cytokine genes clustered on the q-arm of chromosome 17. Chemokines are a superfamily of secreted proteins involved in immunoregulatory and inflammatory processes. The superfamily is divided into four subfamilies based on the arrangement of N-terminal cysteine residues of the mature peptide. This chemokine is a member of the CC subfamily which is characterized by two adjacent cysteine residues. This cytokine displays chemotactic activity for monocytes and basophils but not for neutrophils or eosinophils. It has been implicated in the pathogenesis of diseases characterized by monocytic infiltrates, like psoriasis, rheumatoid arthritis and atherosclerosis. It binds to chemokine receptors CCR2 and CCR4. [provided by RefSeq, Jul 2013]",
+        "Entrez Gene ID": {
+            "text": "6347",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6347"
+        },
+        "MIM": {
+            "text": "158105",
+            "href": "https://omim.org/entry/158105"
+        },
+        "HGNC": {
+            "text": "HGNC:10618",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:10618"
+        },
+        "Ensembl": {
+            "text": "ENSG00000108691",
+            "href": "http://www.ensembl.org/id/ENSG00000108691"
+        }
+    },
+    {
+        "Gene ID": 6348,
+        "Name": "CCL3",
+        "Symbol": "CCL3 (provided by HGNC)",
+        "Full Name": "C-C motif chemokine ligand 3",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "G0S19-1; LD78ALPHA; MIP-1-alpha; MIP1A; SCYA3",
+        "Synonyms_list": [
+            "G0S19-1",
+            "LD78ALPHA",
+            "MIP-1-alpha",
+            "MIP1A",
+            "SCYA3"
+        ],
+        "Chromosome": "17",
+        "Map location": "17q12",
+        "General protein information": "C-C motif chemokine 3; G0/G1 switch regulatory protein 19-1; PAT 464.1; SIS-beta; macrophage inflammatory protein 1-alpha; small inducible cytokine A3 (homologous to mouse Mip-1a); tonsillar lymphocyte LD78 alpha protein",
+        "Summary": "This locus represents a small inducible cytokine. The encoded protein, also known as macrophage inflammatory protein 1 alpha, plays a role in inflammatory responses through binding to the receptors CCR1, CCR4 and CCR5. Polymorphisms at this locus may be associated with both resistance and susceptibility to infection by human immunodeficiency virus type 1.[provided by RefSeq, Sep 2010]",
+        "Entrez Gene ID": {
+            "text": "6348",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6348"
+        },
+        "MIM": {
+            "text": "182283",
+            "href": "https://omim.org/entry/182283"
+        },
+        "HGNC": {
+            "text": "HGNC:10627",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:10627"
+        },
+        "Ensembl": {
+            "text": "ENSG00000277632",
+            "href": "http://www.ensembl.org/id/ENSG00000277632"
+        }
+    },
+    {
+        "Gene ID": 6390,
+        "Name": "SDHB",
+        "Symbol": "SDHB (provided by HGNC)",
+        "Full Name": "succinate dehydrogenase complex iron sulfur subunit B",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CWS2; IP; PGL4; SDH; SDH1; SDH2; SDHIP",
+        "Synonyms_list": [
+            "CWS2",
+            "IP",
+            "PGL4",
+            "SDH",
+            "SDH1",
+            "SDH2",
+            "SDHIP"
+        ],
+        "Chromosome": "1",
+        "Map location": "1p36.13",
+        "General protein information": "succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial; iron-sulfur subunit of complex II; succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",
+        "Summary": "Complex II of the respiratory chain, which is specifically involved in the oxidation of succinate, carries electrons from FADH to CoQ. The complex is composed of four nuclear-encoded subunits and is localized in the mitochondrial inner membrane. The iron-sulfur subunit is highly conserved and contains three cysteine-rich clusters which may comprise the iron-sulfur centers of the enzyme. Sporadic and familial mutations in this gene result in paragangliomas and pheochromocytoma, and support a link between mitochondrial dysfunction and tumorigenesis. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "6390",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6390"
+        },
+        "MIM": {
+            "text": "185470",
+            "href": "https://omim.org/entry/185470"
+        },
+        "HGNC": {
+            "text": "HGNC:10681",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:10681"
+        },
+        "Ensembl": {
+            "text": "ENSG00000117118",
+            "href": "http://www.ensembl.org/id/ENSG00000117118"
+        }
+    },
+    {
+        "Gene ID": 6401,
+        "Name": "SELE",
+        "Symbol": "SELE (provided by HGNC)",
+        "Full Name": "selectin E",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD62E; ELAM; ELAM1; ESEL; LECAM2",
+        "Synonyms_list": [
+            "CD62E",
+            "ELAM",
+            "ELAM1",
+            "ESEL",
+            "LECAM2"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q24.2",
+        "General protein information": "E-selectin; CD62 antigen-like family member E; ELAM-1; endothelial adhesion molecule 1; endothelial leukocyte adhesion molecule 1; leukocyte endothelial cell adhesion molecule 2",
+        "Summary": "The protein encoded by this gene is found in cytokine-stimulated endothelial cells and is thought to be responsible for the accumulation of blood leukocytes at sites of inflammation by mediating the adhesion of cells to the vascular lining. It exhibits structural features such as the presence of lectin- and EGF-like domains followed by short consensus repeat (SCR) domains that contain 6 conserved cysteine residues. These proteins are part of the selectin family of cell adhesion molecules. Adhesion molecules participate in the interaction between leukocytes and the endothelium and appear to be involved in the pathogenesis of atherosclerosis. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "6401",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6401"
+        },
+        "MIM": {
+            "text": "131210",
+            "href": "https://omim.org/entry/131210"
+        },
+        "HGNC": {
+            "text": "HGNC:10718",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:10718"
+        },
+        "Ensembl": {
+            "text": "ENSG00000007908",
+            "href": "http://www.ensembl.org/id/ENSG00000007908"
+        }
+    },
+    {
+        "Gene ID": 6772,
+        "Name": "STAT1",
+        "Symbol": "STAT1 (provided by HGNC)",
+        "Full Name": "signal transducer and activator of transcription 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CANDF7; IMD31A; IMD31B; IMD31C; ISGF-3; STAT91",
+        "Synonyms_list": [
+            "CANDF7",
+            "IMD31A",
+            "IMD31B",
+            "IMD31C",
+            "ISGF-3",
+            "STAT91"
+        ],
+        "Chromosome": "2",
+        "Map location": "2q32.2",
+        "General protein information": "signal transducer and activator of transcription 1-alpha/beta; signal transducer and activator of transcription 1, 91kD; signal transducer and activator of transcription 1, 91kDa; transcription factor ISGF-3 components p91/p84",
+        "Summary": "The protein encoded by this gene is a member of the STAT protein family. In response to cytokines and growth factors, STAT family members are phosphorylated by the receptor associated kinases, and then form homo- or heterodimers that translocate to the cell nucleus where they act as transcription activators. This protein can be activated by various ligands including interferon-alpha, interferon-gamma, EGF, PDGF and IL6. This protein mediates the expression of a variety of genes, which is thought to be important for cell viability in response to different cell stimuli and pathogens. Two alternatively spliced transcript variants encoding distinct isoforms have been described. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "6772",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=6772"
+        },
+        "MIM": {
+            "text": "600555",
+            "href": "https://omim.org/entry/600555"
+        },
+        "HGNC": {
+            "text": "HGNC:11362",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11362"
+        },
+        "Ensembl": {
+            "text": "ENSG00000115415",
+            "href": "http://www.ensembl.org/id/ENSG00000115415"
+        }
+    },
+    {
+        "Gene ID": 7096,
+        "Name": "TLR1",
+        "Symbol": "TLR1 (provided by HGNC)",
+        "Full Name": "toll like receptor 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD281; TIL; TIL. LPRS5; rsc786",
+        "Synonyms_list": [
+            "CD281",
+            "TIL",
+            "TIL. LPRS5",
+            "rsc786"
+        ],
+        "Chromosome": "4",
+        "Map location": "4p14",
+        "General protein information": "toll-like receptor 1; toll/interleukin-1 receptor-like protein",
+        "Summary": "The protein encoded by this gene is a member of the Toll-like receptor (TLR) family which plays a fundamental role in pathogen recognition and activation of innate immunity. TLRs are highly conserved from Drosophila to humans and share structural and functional similarities. They recognize pathogen-associated molecular patterns (PAMPs) that are expressed on infectious agents, and mediate the production of cytokines necessary for the development of effective immunity. The various TLRs exhibit different patterns of expression. This gene is ubiquitously expressed, and at higher levels than other TLR genes. Different length transcripts presumably resulting from use of alternative polyadenylation site, and/or from alternative splicing, have been noted for this gene. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "7096",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=7096"
+        },
+        "MIM": {
+            "text": "601194",
+            "href": "https://omim.org/entry/601194"
+        },
+        "HGNC": {
+            "text": "HGNC:11847",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11847"
+        },
+        "Ensembl": {
+            "text": "ENSG00000174125",
+            "href": "http://www.ensembl.org/id/ENSG00000174125"
+        }
+    },
+    {
+        "Gene ID": 7097,
+        "Name": "TLR2",
+        "Symbol": "TLR2 (provided by HGNC)",
+        "Full Name": "toll like receptor 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CD282; TIL4",
+        "Synonyms_list": [
+            "CD282",
+            "TIL4"
+        ],
+        "Chromosome": "4",
+        "Map location": "4q31.3",
+        "General protein information": "toll-like receptor 2; toll/interleukin-1 receptor-like protein 4",
+        "Summary": "The protein encoded by this gene is a member of the Toll-like receptor (TLR) family which plays a fundamental role in pathogen recognition and activation of innate immunity. TLRs are highly conserved from Drosophila to humans and share structural and functional similarities. This protein is a cell-surface protein that can form heterodimers with other TLR family members to recognize conserved molecules derived from microorganisms known as pathogen-associated molecular patterns (PAMPs). Activation of TLRs by PAMPs leads to an up-regulation of signaling pathways to modulate the host's inflammatory response. This gene is also thought to promote apoptosis in response to bacterial lipoproteins. This gene has been implicated in the pathogenesis of several autoimmune diseases. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2016]",
+        "Entrez Gene ID": {
+            "text": "7097",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=7097"
+        },
+        "MIM": {
+            "text": "603028",
+            "href": "https://omim.org/entry/603028"
+        },
+        "HGNC": {
+            "text": "HGNC:11848",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11848"
+        },
+        "Ensembl": {
+            "text": "ENSG00000137462",
+            "href": "http://www.ensembl.org/id/ENSG00000137462"
+        }
+    },
+    {
+        "Gene ID": 7099,
+        "Name": "TLR4",
+        "Symbol": "TLR4 (provided by HGNC)",
+        "Full Name": "toll like receptor 4",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "ARMD10; CD284; TLR-4; TOLL",
+        "Synonyms_list": [
+            "ARMD10",
+            "CD284",
+            "TLR-4",
+            "TOLL"
+        ],
+        "Chromosome": "9",
+        "Map location": "9q33.1",
+        "General protein information": "toll-like receptor 4; hToll; homolog of Drosophila toll; toll like receptor 4 protein",
+        "Summary": "The protein encoded by this gene is a member of the Toll-like receptor (TLR) family which plays a fundamental role in pathogen recognition and activation of innate immunity. TLRs are highly conserved from Drosophila to humans and share structural and functional similarities. They recognize pathogen-associated molecular patterns that are expressed on infectious agents, and mediate the production of cytokines necessary for the development of effective immunity. The various TLRs exhibit different patterns of expression. This receptor has been implicated in signal transduction events induced by lipopolysaccharide (LPS) found in most gram-negative bacteria. Mutations in this gene have been associated with differences in LPS responsiveness. Multiple transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jan 2012]",
+        "Entrez Gene ID": {
+            "text": "7099",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=7099"
+        },
+        "MIM": {
+            "text": "603030",
+            "href": "https://omim.org/entry/603030"
+        },
+        "HGNC": {
+            "text": "HGNC:11850",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11850"
+        },
+        "Ensembl": {
+            "text": "ENSG00000136869",
+            "href": "http://www.ensembl.org/id/ENSG00000136869"
+        }
+    },
+    {
+        "Gene ID": 7124,
+        "Name": "TNF",
+        "Symbol": "TNF (provided by HGNC)",
+        "Full Name": "tumor necrosis factor",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "DIF; TNF-alpha; TNFA; TNFSF2; TNLG1F",
+        "Synonyms_list": [
+            "DIF",
+            "TNF-alpha",
+            "TNFA",
+            "TNFSF2",
+            "TNLG1F"
+        ],
+        "Chromosome": "6",
+        "Map location": "6p21.33",
+        "General protein information": "tumor necrosis factor; APC1 protein; TNF, macrophage-derived; TNF, monocyte-derived; TNF-a; cachectin; tumor necrosis factor ligand 1F; tumor necrosis factor ligand superfamily member 2; tumor necrosis factor-alpha",
+        "Summary": "This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. This cytokine is mainly secreted by macrophages. It can bind to, and thus functions through its receptors TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. This cytokine is involved in the regulation of a wide spectrum of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation. This cytokine has been implicated in a variety of diseases, including autoimmune diseases, insulin resistance, and cancer. Knockout studies in mice also suggested the neuroprotective function of this cytokine. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "7124",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=7124"
+        },
+        "MIM": {
+            "text": "191160",
+            "href": "https://omim.org/entry/191160"
+        },
+        "HGNC": {
+            "text": "HGNC:11892",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:11892"
+        },
+        "Ensembl": {
+            "text": "ENSG00000232810",
+            "href": "http://www.ensembl.org/id/ENSG00000232810"
+        }
+    },
+    {
+        "Gene ID": 8163,
+        "Name": "CDR3",
+        "Symbol": "CDR3",
+        "Full Name": "-",
+        "Gene type": "other",
+        "Organism": "Homo sapiens",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "17",
+        "Map location": "17q25",
+        "General protein information": "-",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "8163",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=8163"
+        },
+        "MIM": {
+            "text": "602197",
+            "href": "https://omim.org/entry/602197"
+        }
+    },
+    {
+        "Gene ID": 9308,
+        "Name": "CD83",
+        "Symbol": "CD83 (provided by HGNC)",
+        "Full Name": "CD83 molecule",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "BL11; HB15",
+        "Synonyms_list": [
+            "BL11",
+            "HB15"
+        ],
+        "Chromosome": "6",
+        "Map location": "6p23",
+        "General protein information": "CD83 antigen; B-cell activation protein; CD83 antigen (activated B lymphocytes, immunoglobulin superfamily); cell surface protein HB15; cell-surface glycoprotein; hCD83",
+        "Summary": "The protein encoded by this gene is a single-pass type I membrane protein and member of the immunoglobulin superfamily of receptors. The encoded protein may be involved in the regulation of antigen presentation. A soluble form of this protein can bind to dendritic cells and inhibit their maturation. Three transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Oct 2011]",
+        "Entrez Gene ID": {
+            "text": "9308",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=9308"
+        },
+        "MIM": {
+            "text": "604534",
+            "href": "https://omim.org/entry/604534"
+        },
+        "HGNC": {
+            "text": "HGNC:1703",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:1703"
+        },
+        "Ensembl": {
+            "text": "ENSG00000112149",
+            "href": "http://www.ensembl.org/id/ENSG00000112149"
+        }
+    },
+    {
+        "Gene ID": 9474,
+        "Name": "ATG5",
+        "Symbol": "ATG5 (provided by HGNC)",
+        "Full Name": "autophagy related 5",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "APG5; APG5-LIKE; APG5L; ASP; SCAR25; hAPG5",
+        "Synonyms_list": [
+            "APG5",
+            "APG5-LIKE",
+            "APG5L",
+            "ASP",
+            "SCAR25",
+            "hAPG5"
+        ],
+        "Chromosome": "6",
+        "Map location": "6q21",
+        "General protein information": "autophagy protein 5; APG5 autophagy 5-like; ATG5 autophagy related 5 homolog; apoptosis-specific protein",
+        "Summary": "The protein encoded by this gene, in combination with autophagy protein 12, functions as an E1-like activating enzyme in a ubiquitin-like conjugating system. The encoded protein is involved in several cellular processes, including autophagic vesicle formation, mitochondrial quality control after oxidative damage, negative regulation of the innate antiviral immune response, lymphocyte development and proliferation, MHC II antigen presentation, adipocyte differentiation, and apoptosis. Several transcript variants encoding different protein isoforms have been found for this gene. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "9474",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=9474"
+        },
+        "MIM": {
+            "text": "604261",
+            "href": "https://omim.org/entry/604261"
+        },
+        "HGNC": {
+            "text": "HGNC:589",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:589"
+        },
+        "Ensembl": {
+            "text": "ENSG00000057663",
+            "href": "http://www.ensembl.org/id/ENSG00000057663"
+        }
+    },
+    {
+        "Gene ID": 9734,
+        "Name": "HDAC9",
+        "Symbol": "HDAC9 (provided by HGNC)",
+        "Full Name": "histone deacetylase 9",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "HD7; HD7b; HD9; HDAC; HDAC7; HDAC7B; HDAC9B; HDAC9FL; HDRP; MITR",
+        "Synonyms_list": [
+            "HD7",
+            "HD7b",
+            "HD9",
+            "HDAC",
+            "HDAC7",
+            "HDAC7B",
+            "HDAC9B",
+            "HDAC9FL",
+            "HDRP",
+            "MITR"
+        ],
+        "Chromosome": "7",
+        "Map location": "7p21.1",
+        "General protein information": "histone deacetylase 9; MEF-2 interacting transcription repressor (MITR) protein; histone deacetylase 4/5-related protein; histone deacetylase 7B",
+        "Summary": "Histones play a critical role in transcriptional regulation, cell cycle progression, and developmental events. Histone acetylation/deacetylation alters chromosome structure and affects transcription factor access to DNA. The protein encoded by this gene has sequence homology to members of the histone deacetylase family. This gene is orthologous to the Xenopus and mouse MITR genes. The MITR protein lacks the histone deacetylase catalytic domain. It represses MEF2 activity through recruitment of multicomponent corepressor complexes that include CtBP and HDACs. This encoded protein may play a role in hematopoiesis. Multiple alternatively spliced transcripts have been described for this gene but the full-length nature of some of them has not been determined. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "9734",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=9734"
+        },
+        "MIM": {
+            "text": "606543",
+            "href": "https://omim.org/entry/606543"
+        },
+        "HGNC": {
+            "text": "HGNC:14065",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:14065"
+        },
+        "Ensembl": {
+            "text": "ENSG00000048052",
+            "href": "http://www.ensembl.org/id/ENSG00000048052"
+        }
+    },
+    {
+        "Gene ID": 11016,
+        "Name": "ATF7",
+        "Symbol": "ATF7 (provided by HGNC)",
+        "Full Name": "activating transcription factor 7",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "ATFA",
+        "Synonyms_list": [
+            "ATFA"
+        ],
+        "Chromosome": "12",
+        "Map location": "12q13.13",
+        "General protein information": "cyclic AMP-dependent transcription factor ATF-7; transcription factor ATF-A",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "11016",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=11016"
+        },
+        "MIM": {
+            "text": "606371",
+            "href": "https://omim.org/entry/606371"
+        },
+        "HGNC": {
+            "text": "HGNC:792",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:792"
+        },
+        "Ensembl": {
+            "text": "ENSG00000170653",
+            "href": "http://www.ensembl.org/id/ENSG00000170653"
+        }
+    },
+    {
+        "Gene ID": 11167,
+        "Name": "FSTL1",
+        "Symbol": "FSTL1 (provided by HGNC)",
+        "Full Name": "follistatin like 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "FRP; FSL1; MIR198; OCC-1; OCC1; tsc36",
+        "Synonyms_list": [
+            "FRP",
+            "FSL1",
+            "MIR198",
+            "OCC-1",
+            "OCC1",
+            "tsc36"
+        ],
+        "Chromosome": "3",
+        "Map location": "3q13.33",
+        "General protein information": "follistatin-related protein 1; follistatin-like protein 1",
+        "Summary": "This gene encodes a protein with similarity to follistatin, an activin-binding protein. It contains an FS module, a follistatin-like sequence containing 10 conserved cysteine residues. This gene product is thought to be an autoantigen associated with rheumatoid arthritis. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "11167",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=11167"
+        },
+        "MIM": {
+            "text": "605547",
+            "href": "https://omim.org/entry/605547"
+        },
+        "HGNC": {
+            "text": "HGNC:3972",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3972"
+        },
+        "Ensembl": {
+            "text": "ENSG00000163430",
+            "href": "http://www.ensembl.org/id/ENSG00000163430"
+        }
+    },
+    {
+        "Gene ID": 11213,
+        "Name": "IRAK3",
+        "Symbol": "IRAK3 (provided by HGNC)",
+        "Full Name": "interleukin 1 receptor associated kinase 3",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "ASRT5; IRAKM",
+        "Synonyms_list": [
+            "ASRT5",
+            "IRAKM"
+        ],
+        "Chromosome": "12",
+        "Map location": "12q14.3",
+        "General protein information": "interleukin-1 receptor-associated kinase 3; IL-1 receptor-associated kinase M",
+        "Summary": "This gene encodes a member of the interleukin-1 receptor-associated kinase protein family. Members of this family are essential components of the Toll/IL-R immune signal transduction pathways. This protein is primarily expressed in monocytes and macrophages and functions as a negative regulator of Toll-like receptor signaling. Mutations in this gene are associated with a susceptibility to asthma. Alternate splicing results in multiple transcript variants. [provided by RefSeq, May 2010]",
+        "Entrez Gene ID": {
+            "text": "11213",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=11213"
+        },
+        "MIM": {
+            "text": "604459",
+            "href": "https://omim.org/entry/604459"
+        },
+        "HGNC": {
+            "text": "HGNC:17020",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:17020"
+        },
+        "Ensembl": {
+            "text": "ENSG00000090376",
+            "href": "http://www.ensembl.org/id/ENSG00000090376"
+        }
+    },
+    {
+        "Gene ID": 50616,
+        "Name": "IL22",
+        "Symbol": "IL22 (provided by HGNC)",
+        "Full Name": "interleukin 22",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "IL-21; IL-22; IL-D110; IL-TIF; ILTIF; TIFIL-23; TIFa; zcyto18",
+        "Synonyms_list": [
+            "IL-21",
+            "IL-22",
+            "IL-D110",
+            "IL-TIF",
+            "ILTIF",
+            "TIFIL-23",
+            "TIFa",
+            "zcyto18"
+        ],
+        "Chromosome": "12",
+        "Map location": "12q15",
+        "General protein information": "interleukin-22; IL-10-related T-cell-derived inducible factor; cytokine Zcyto18",
+        "Summary": "This gene is a member of the IL10 family of cytokines that mediate cellular inflammatory responses. The encoded protein functions in antimicrobial defense at mucosal surfaces and in tissue repair. This protein also has pro-inflammatory properties and plays a role in in the pathogenesis of several intestinal diseases. [provided by RefSeq, Jul 2018]",
+        "Entrez Gene ID": {
+            "text": "50616",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=50616"
+        },
+        "MIM": {
+            "text": "605330",
+            "href": "https://omim.org/entry/605330"
+        },
+        "HGNC": {
+            "text": "HGNC:14900",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:14900"
+        },
+        "Ensembl": {
+            "text": "ENSG00000127318",
+            "href": "http://www.ensembl.org/id/ENSG00000127318"
+        }
+    },
+    {
+        "Gene ID": 51284,
+        "Name": "TLR7",
+        "Symbol": "TLR7 (provided by HGNC)",
+        "Full Name": "toll like receptor 7",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "TLR7-like",
+        "Synonyms_list": [
+            "TLR7-like"
+        ],
+        "Chromosome": "X",
+        "Map location": "Xp22.2",
+        "General protein information": "toll-like receptor 7; toll-like receptor 7-like",
+        "Summary": "The protein encoded by this gene is a member of the Toll-like receptor (TLR) family which plays a fundamental role in pathogen recognition and activation of innate immunity. TLRs are highly conserved from Drosophila to humans and share structural and functional similarities. They recognize pathogen-associated molecular patterns (PAMPs) that are expressed on infectious agents, and mediate the production of cytokines necessary for the development of effective immunity. The various TLRs exhibit different patterns of expression. This gene is predominantly expressed in lung, placenta, and spleen, and lies in close proximity to another family member, TLR8, on chromosome X. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "51284",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=51284"
+        },
+        "MIM": {
+            "text": "300365",
+            "href": "https://omim.org/entry/300365"
+        },
+        "HGNC": {
+            "text": "HGNC:15631",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:15631"
+        },
+        "Ensembl": {
+            "text": "ENSG00000196664",
+            "href": "http://www.ensembl.org/id/ENSG00000196664"
+        }
+    },
+    {
+        "Gene ID": 51497,
+        "Name": "NELFCD",
+        "Symbol": "NELFCD (provided by HGNC)",
+        "Full Name": "negative elongation factor complex member C/D",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "HSPC130; NELF-C; NELF-D; TH1; TH1L",
+        "Synonyms_list": [
+            "HSPC130",
+            "NELF-C",
+            "NELF-D",
+            "TH1",
+            "TH1L"
+        ],
+        "Chromosome": "20",
+        "Map location": "20q13.32",
+        "General protein information": "negative elongation factor C/D; NELF-C/D; TH1 drosophila homolog; TH1-like protein; negative elongation factor proteins C and D; trihydrophobin 1",
+        "Summary": "The NELF complex of proteins interacts with the DSIF protein complex to repress transcriptional elongation by RNA polymerase II. The protein encoded by this gene is an essential part of the NELF complex. Alternative translation initiation site usage results in the formation of two isoforms with different N-termini. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "51497",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=51497"
+        },
+        "MIM": {
+            "text": "605297",
+            "href": "https://omim.org/entry/605297"
+        },
+        "HGNC": {
+            "text": "HGNC:15934",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:15934"
+        },
+        "Ensembl": {
+            "text": "ENSG00000101158",
+            "href": "http://www.ensembl.org/id/ENSG00000101158"
+        }
+    },
+    {
+        "Gene ID": 64581,
+        "Name": "CLEC7A",
+        "Symbol": "CLEC7A (provided by HGNC)",
+        "Full Name": "C-type lectin domain containing 7A",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "BGR; CANDF4; CD369; CLECSF12; DECTIN1; SCARE2",
+        "Synonyms_list": [
+            "BGR",
+            "CANDF4",
+            "CD369",
+            "CLECSF12",
+            "DECTIN1",
+            "SCARE2"
+        ],
+        "Chromosome": "12",
+        "Map location": "12p13.2",
+        "General protein information": "C-type lectin domain family 7 member A; C-type (calcium dependent, carbohydrate-recognition domain) lectin, superfamily member 12; C-type lectin superfamily member 12; DC-associated C-type lectin 1; beta-glucan receptor; dectin-1; dendritic cell-associated C-type lectin-1; lectin-like receptor 1",
+        "Summary": "This gene encodes a member of the C-type lectin/C-type lectin-like domain (CTL/CTLD) superfamily. The encoded glycoprotein is a small type II membrane receptor with an extracellular C-type lectin-like domain fold and a cytoplasmic domain with an immunoreceptor tyrosine-based activation motif. It functions as a pattern-recognition receptor that recognizes a variety of beta-1,3-linked and beta-1,6-linked glucans from fungi and plants, and in this way plays a role in innate immune response. Alternate transcriptional splice variants, encoding different isoforms, have been characterized. This gene is closely linked to other CTL/CTLD superfamily members on chromosome 12p13 in the natural killer gene complex region. [provided by RefSeq, Jul 2008]",
+        "Entrez Gene ID": {
+            "text": "64581",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=64581"
+        },
+        "MIM": {
+            "text": "606264",
+            "href": "https://omim.org/entry/606264"
+        },
+        "HGNC": {
+            "text": "HGNC:14558",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:14558"
+        },
+        "Ensembl": {
+            "text": "ENSG00000172243",
+            "href": "http://www.ensembl.org/id/ENSG00000172243"
+        }
+    },
+    {
+        "Gene ID": 65108,
+        "Name": "MARCKSL1",
+        "Symbol": "MARCKSL1 (provided by HGNC)",
+        "Full Name": "MARCKS like 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "F52; MACMARCKS; MLP; MLP1; MRP",
+        "Synonyms_list": [
+            "F52",
+            "MACMARCKS",
+            "MLP",
+            "MLP1",
+            "MRP"
+        ],
+        "Chromosome": "1",
+        "Map location": "1p35.1",
+        "General protein information": "MARCKS-related protein; MARCKS-like protein 1; mac-MARCKS; macrophage myristoylated alanine-rich C kinase substrate",
+        "Summary": "This gene encodes a member of the myristoylated alanine-rich C-kinase substrate (MARCKS) family. Members of this family play a role in cytoskeletal regulation, protein kinase C signaling and calmodulin signaling. The encoded protein affects the formation of adherens junction. Alternative splicing results in multiple transcript variants. Pseudogenes of this gene are located on the long arm of chromosomes 6 and 10. [provided by RefSeq, Jun 2012]",
+        "Entrez Gene ID": {
+            "text": "65108",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=65108"
+        },
+        "MIM": {
+            "text": "602940",
+            "href": "https://omim.org/entry/602940"
+        },
+        "HGNC": {
+            "text": "HGNC:7142",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:7142"
+        },
+        "Ensembl": {
+            "text": "ENSG00000175130",
+            "href": "http://www.ensembl.org/id/ENSG00000175130"
+        }
+    },
+    {
+        "Gene ID": 79723,
+        "Name": "SUV39H2",
+        "Symbol": "SUV39H2 (provided by HGNC)",
+        "Full Name": "suppressor of variegation 3-9 homolog 2",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "KMT1B",
+        "Synonyms_list": [
+            "KMT1B"
+        ],
+        "Chromosome": "10",
+        "Map location": "10p13",
+        "General protein information": "histone-lysine N-methyltransferase SUV39H2; H3-K9-HMTase 2; histone H3-K9 methyltransferase 2; lysine N-methyltransferase 1B; su(var)3-9 homolog 2",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "79723",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=79723"
+        },
+        "MIM": {
+            "text": "606503",
+            "href": "https://omim.org/entry/606503"
+        },
+        "HGNC": {
+            "text": "HGNC:17287",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:17287"
+        },
+        "Ensembl": {
+            "text": "ENSG00000152455",
+            "href": "http://www.ensembl.org/id/ENSG00000152455"
+        }
+    },
+    {
+        "Gene ID": 91662,
+        "Name": "NLRP12",
+        "Symbol": "NLRP12 (provided by HGNC)",
+        "Full Name": "NLR family pyrin domain containing 12",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CLR19.3; FCAS2; NALP12; PAN6; PYPAF7; RNO; RNO2",
+        "Synonyms_list": [
+            "CLR19.3",
+            "FCAS2",
+            "NALP12",
+            "PAN6",
+            "PYPAF7",
+            "RNO",
+            "RNO2"
+        ],
+        "Chromosome": "19",
+        "Map location": "19q13.42",
+        "General protein information": "NACHT, LRR and PYD domains-containing protein 12; PYRIN-containing APAF1-like protein 7; monarch 1; nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 12; regulated by nitric oxide",
+        "Summary": "This gene encodes a member of the CATERPILLER family of cytoplasmic proteins. The encoded protein, which contains an N-terminal pyrin domain, a NACHT domain, a NACHT-associated domain, and a C-terminus leucine-rich repeat region, functions as an attenuating factor of inflammation by suppressing inflammatory responses in activated monocytes. Mutations in this gene cause familial cold autoinflammatory syndrome type 2. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Mar 2013]",
+        "Entrez Gene ID": {
+            "text": "91662",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=91662"
+        },
+        "MIM": {
+            "text": "609648",
+            "href": "https://omim.org/entry/609648"
+        },
+        "HGNC": {
+            "text": "HGNC:22938",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:22938"
+        },
+        "Ensembl": {
+            "text": "ENSG00000142405",
+            "href": "http://www.ensembl.org/id/ENSG00000142405"
+        }
+    },
+    {
+        "Gene ID": 114548,
+        "Name": "NLRP3",
+        "Symbol": "NLRP3 (provided by HGNC)",
+        "Full Name": "NLR family pyrin domain containing 3",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1; DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1",
+        "Synonyms_list": [
+            "AGTAVPRL",
+            "AII",
+            "AVP",
+            "C1orf7",
+            "CIAS1",
+            "CLR1.1",
+            "DFNA34",
+            "FCAS",
+            "FCAS1",
+            "FCU",
+            "KEFH",
+            "MWS",
+            "NALP3",
+            "PYPAF1"
+        ],
+        "Chromosome": "1",
+        "Map location": "1q44",
+        "General protein information": "NACHT, LRR and PYD domains-containing protein 3; NACHT domain-, leucine-rich repeat-, and PYD-containing protein 3; NACHT, LRR and PYD containing protein 3; PYRIN-containing APAF1-like protein 1; caterpiller protein 1.1; cold autoinflammatory syndrome 1 protein; cold-induced autoinflammatory syndrome 1 protein; cryopyrin; cryopyrin, NACHT, LRR and PYD domains - containing protein 3; deafness, autosomal dominant 34; nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 3",
+        "Summary": "This gene encodes a pyrin-like protein containing a pyrin domain, a nucleotide-binding site (NBS) domain, and a leucine-rich repeat (LRR) motif. This protein interacts with the apoptosis-associated speck-like protein PYCARD/ASC, which contains a caspase recruitment domain, and is a member of the NALP3 inflammasome complex. This complex functions as an upstream activator of NF-kappaB signaling, and it plays a role in the regulation of inflammation, the immune response, and apoptosis. Mutations in this gene are associated with familial cold autoinflammatory syndrome (FCAS), Muckle-Wells syndrome (MWS), chronic infantile neurological cutaneous and articular (CINCA) syndrome, and neonatal-onset multisystem inflammatory disease (NOMID). Multiple alternatively spliced transcript variants encoding distinct isoforms have been identified for this gene. Alternative 5' UTR structures are suggested by available data; however, insufficient evidence is available to determine if all of the represented 5' UTR splice patterns are biologically valid. [provided by RefSeq, Oct 2008]",
+        "Entrez Gene ID": {
+            "text": "114548",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=114548"
+        },
+        "MIM": {
+            "text": "606416",
+            "href": "https://omim.org/entry/606416"
+        },
+        "HGNC": {
+            "text": "HGNC:16400",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:16400"
+        },
+        "Ensembl": {
+            "text": "ENSG00000162711",
+            "href": "http://www.ensembl.org/id/ENSG00000162711"
+        }
+    },
+    {
+        "Gene ID": 406887,
+        "Name": "MIRLET7E",
+        "Symbol": "MIRLET7E (provided by HGNC)",
+        "Full Name": "microRNA let-7e",
+        "Gene type": "ncRNA",
+        "Organism": "Homo sapiens",
+        "Synonyms": "LET7E; MIRNLET7E; hsa-let-7e; let-7e",
+        "Synonyms_list": [
+            "LET7E",
+            "MIRNLET7E",
+            "hsa-let-7e",
+            "let-7e"
+        ],
+        "Chromosome": "19",
+        "Map location": "19q13.41",
+        "General protein information": "-",
+        "Summary": "microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009]",
+        "Entrez Gene ID": {
+            "text": "406887",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=406887"
+        },
+        "MIM": {
+            "text": "611250",
+            "href": "https://omim.org/entry/611250"
+        },
+        "HGNC": {
+            "text": "HGNC:31482",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:31482"
+        },
+        "Ensembl": {
+            "text": "ENSG00000198972",
+            "href": "http://www.ensembl.org/id/ENSG00000198972"
+        },
+        "miRBase": {
+            "text": "MI0000066",
+            "href": "http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=MI0000066"
+        }
+    },
+    {
+        "Gene ID": 407006,
+        "Name": "MIR221",
+        "Symbol": "MIR221 (provided by HGNC)",
+        "Full Name": "microRNA 221",
+        "Gene type": "ncRNA",
+        "Organism": "Homo sapiens",
+        "Synonyms": "MIRN221; miRNA221; mir-221",
+        "Synonyms_list": [
+            "MIRN221",
+            "miRNA221",
+            "mir-221"
+        ],
+        "Chromosome": "X",
+        "Map location": "Xp11.3",
+        "General protein information": "hsa-mir-221",
+        "Summary": "microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009]",
+        "Entrez Gene ID": {
+            "text": "407006",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=407006"
+        },
+        "MIM": {
+            "text": "300568",
+            "href": "https://omim.org/entry/300568"
+        },
+        "HGNC": {
+            "text": "HGNC:31601",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:31601"
+        },
+        "Ensembl": {
+            "text": "ENSG00000207870",
+            "href": "http://www.ensembl.org/id/ENSG00000207870"
+        },
+        "miRBase": {
+            "text": "MI0000298",
+            "href": "http://www.mirbase.org/cgi-bin/mirna_entry.pl?acc=MI0000298"
+        }
+    },
+    {
+        "Gene ID": 730249,
+        "Name": "ACOD1",
+        "Symbol": "ACOD1 (provided by HGNC)",
+        "Full Name": "aconitate decarboxylase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Homo sapiens",
+        "Synonyms": "CAD; IRG1",
+        "Synonyms_list": [
+            "CAD",
+            "IRG1"
+        ],
+        "Chromosome": "13",
+        "Map location": "13q22.3",
+        "General protein information": "cis-aconitate decarboxylase; cis-aconitic acid decarboxylase; immune-responsive gene 1 protein homolog; immunoresponsive 1 homolog",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "730249",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=730249"
+        },
+        "MIM": {
+            "text": "615275",
+            "href": "https://omim.org/entry/615275"
+        },
+        "HGNC": {
+            "text": "HGNC:33904",
+            "href": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:33904"
+        },
+        "Ensembl": {
+            "text": "ENSG00000102794",
+            "href": "http://www.ensembl.org/id/ENSG00000102794"
+        }
+    },
+    {
+        "Gene ID": 12297,
+        "Name": "Cacnb3",
+        "Symbol": "Cacnb3 (provided by MGI)",
+        "Full Name": "calcium channel, voltage-dependent, beta 3 subunit",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Beta3; CAB3; Ca(v)beta3; Cchb3",
+        "Synonyms_list": [
+            "Beta3",
+            "CAB3",
+            "Ca(v)beta3",
+            "Cchb3"
+        ],
+        "Chromosome": "15",
+        "Map location": "15 F1|15 54.64 cM",
+        "General protein information": "voltage-dependent L-type calcium channel subunit beta-3; calcium channel voltage-dependent subunit beta 3",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "12297",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=12297"
+        },
+        "MGI": {
+            "text": "MGI:103307",
+            "href": "http://www.informatics.jax.org/marker/MGI:103307"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000003352",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000003352"
+        }
+    },
+    {
+        "Gene ID": 12353,
+        "Name": "Car6",
+        "Symbol": "Car6 (provided by MGI)",
+        "Full Name": "carbonic anhydrase 6",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Ca6; DOC1",
+        "Synonyms_list": [
+            "Ca6",
+            "DOC1"
+        ],
+        "Chromosome": "4",
+        "Map location": "4|4 E2",
+        "General protein information": "carbonic anhydrase 6; CA-VI; carbonate dehydratase VI; carbonic anhydrase VI; salivary carbonic anhydrase; secreted carbonic anhydrase",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "12353",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=12353"
+        },
+        "MGI": {
+            "text": "MGI:1333786",
+            "href": "http://www.informatics.jax.org/marker/MGI:1333786"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000028972",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000028972"
+        }
+    },
+    {
+        "Gene ID": 12504,
+        "Name": "Cd4",
+        "Symbol": "Cd4 (provided by MGI)",
+        "Full Name": "CD4 antigen",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "L3T4; Ly-4",
+        "Synonyms_list": [
+            "L3T4",
+            "Ly-4"
+        ],
+        "Chromosome": "6",
+        "Map location": "6 F2|6 59.17 cM",
+        "General protein information": "T-cell surface glycoprotein CD4; T-cell differentiation antigen L3T4; T-cell surface antigen T4/Leu-3",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "12504",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=12504"
+        },
+        "MGI": {
+            "text": "MGI:88335",
+            "href": "http://www.informatics.jax.org/marker/MGI:88335"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000023274",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000023274"
+        }
+    },
+    {
+        "Gene ID": 12703,
+        "Name": "Socs1",
+        "Symbol": "Socs1 (provided by MGI)",
+        "Full Name": "suppressor of cytokine signaling 1",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Cish1; Cish7; JAB; SOCS-1; SSI-1",
+        "Synonyms_list": [
+            "Cish1",
+            "Cish7",
+            "JAB",
+            "SOCS-1",
+            "SSI-1"
+        ],
+        "Chromosome": "16",
+        "Map location": "16 A1|16 5.81 cM",
+        "General protein information": "suppressor of cytokine signaling 1; JAK2-binding protein; STAT-induced STAT inhibitor 1; cytokine inducible SH2-containing protein 1; cytokine inducible SH2-containing protein 7",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "12703",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=12703"
+        },
+        "MGI": {
+            "text": "MGI:1354910",
+            "href": "http://www.informatics.jax.org/marker/MGI:1354910"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000038037",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000038037"
+        }
+    },
+    {
+        "Gene ID": 12981,
+        "Name": "Csf2",
+        "Symbol": "Csf2 (provided by MGI)",
+        "Full Name": "colony stimulating factor 2 (granulocyte-macrophage)",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "CSF; Csfgm; GMCSF; Gm-CSf; MGI-IGM",
+        "Synonyms_list": [
+            "CSF",
+            "Csfgm",
+            "GMCSF",
+            "Gm-CSf",
+            "MGI-IGM"
+        ],
+        "Chromosome": "11",
+        "Map location": "11 B1.3|11 32.13 cM",
+        "General protein information": "granulocyte-macrophage colony-stimulating factor; colony-stimulating factor; granulocyte-macrophage colony stimulating factor 2; put. GM-CSF",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "12981",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=12981"
+        },
+        "MGI": {
+            "text": "MGI:1339752",
+            "href": "http://www.informatics.jax.org/marker/MGI:1339752"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000018916",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000018916"
+        }
+    },
+    {
+        "Gene ID": 15111,
+        "Name": "Hand2",
+        "Symbol": "Hand2 (provided by MGI)",
+        "Full Name": "heart and neural crest derivatives expressed 2",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AI225906; AI661148; Ehand2; Hed; Th2; Thing2; bHLHa26; dHAND",
+        "Synonyms_list": [
+            "AI225906",
+            "AI661148",
+            "Ehand2",
+            "Hed",
+            "Th2",
+            "Thing2",
+            "bHLHa26",
+            "dHAND"
+        ],
+        "Chromosome": "8",
+        "Map location": "8 B2|8 29.8 cM",
+        "General protein information": "heart- and neural crest derivatives-expressed protein 2; deciduum, heart, autonomic nervous system and neural crest derivatives-expressed protein 2; heart and neural crest derivatives expressed transcript 2; helix-loop-helix transcription factor expressed in embryo and deciduum; thing-2",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "15111",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=15111"
+        },
+        "MGI": {
+            "text": "MGI:103580",
+            "href": "http://www.informatics.jax.org/marker/MGI:103580"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000038193",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000038193"
+        }
+    },
+    {
+        "Gene ID": 15129,
+        "Name": "Hbb-b1",
+        "Symbol": "Hbb-b1 (provided by MGI)",
+        "Full Name": "hemoglobin, beta adult major chain",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AA409645; Hbb1; Hbbt1; Hbbt2; MommeD7; beta1",
+        "Synonyms_list": [
+            "AA409645",
+            "Hbb1",
+            "Hbbt1",
+            "Hbbt2",
+            "MommeD7",
+            "beta1"
+        ],
+        "Chromosome": "7",
+        "Map location": "7 E3|7 54.85 cM",
+        "General protein information": "hemoglobin subunit beta-1; beta maj; beta major globin",
+        "Summary": "This gene encodes a beta polypeptide chain found in adult hemoglobin, which consists of a tetramer of two alpha chains and two beta chains, and which functions in the transport of oxygen to various peripheral tissues. This gene is one of a cluster of beta-hemoglobin genes that are distally regulated by a locus control region, and which are organized along the chromosome in the order of their developmental expression. In mouse, two major strain-specific haplotypes of the beta-globin gene cluster are found - a \"single\" haplotype found in C57BL/-type strains, which includes two highly similar adult beta-globin genes, beta s and beta t, and a \"diffuse\" haplotype found in strains such as BALB/c and 129Sv, which includes two somewhat diverse adult beta-globin genes, beta-major and beta-minor. This gene represents the beta-major adult gene found in the \"diffuse\" haplotype. Primary chromosome 7 of the mouse reference genome assembly, which is derived from C57BL/6 strain mice, represents the \"single\" haplotype, while the \"diffuse\" haplotype is represented in the reference genome collection by the BALB/c strain alternate contig, NT_095534.1. [provided by RefSeq, May 2013]",
+        "Entrez Gene ID": {
+            "text": "15129",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=15129"
+        },
+        "MGI": {
+            "text": "MGI:96021",
+            "href": "http://www.informatics.jax.org/marker/MGI:96021"
+        }
+    },
+    {
+        "Gene ID": 15251,
+        "Name": "Hif1a",
+        "Symbol": "Hif1a (provided by MGI)",
+        "Full Name": "hypoxia inducible factor 1, alpha subunit",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AA959795; HIF-1-alpha; HIF1-alpha; HIF1alpha; MOP1; bHLHe78",
+        "Synonyms_list": [
+            "AA959795",
+            "HIF-1-alpha",
+            "HIF1-alpha",
+            "HIF1alpha",
+            "MOP1",
+            "bHLHe78"
+        ],
+        "Chromosome": "12",
+        "Map location": "12 C3|12 31.99 cM",
+        "General protein information": "hypoxia-inducible factor 1-alpha; ARNT-interacting protein",
+        "Summary": "This gene encodes the alpha subunit which, along with the beta subunit, forms a heterodimeric transcription factor that regulates the cellular and developmental response to reduced oxygen tension. The transcription factor has been shown to regulate genes involved in several biological processes, including erythropoiesis and angiogenesis which aid in increased delivery of oxygen to hypoxic regions. The transcription factor also plays a role in the induction of genes involved in cell proliferation and survival, energy metabolism, apoptosis, and glucose and iron metabolism. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "15251",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=15251"
+        },
+        "MGI": {
+            "text": "MGI:106918",
+            "href": "http://www.informatics.jax.org/marker/MGI:106918"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000021109",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000021109"
+        }
+    },
+    {
+        "Gene ID": 15507,
+        "Name": "Hspb1",
+        "Symbol": "Hspb1 (provided by MGI)",
+        "Full Name": "heat shock protein 1",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "27kDa; Hsp25",
+        "Synonyms_list": [
+            "27kDa",
+            "Hsp25"
+        ],
+        "Chromosome": "5",
+        "Map location": "5 G2|5 75.51 cM",
+        "General protein information": "heat shock protein beta-1; HSP 25; HSP 27; growth-related 25 kDa protein; heat shock 25 kDa protein; heat shock 27 kDa protein; heat shock 27kDa protein 1; heat shock protein, 25 kDa; p25; truncated hsp25",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "15507",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=15507"
+        },
+        "MGI": {
+            "text": "MGI:96240",
+            "href": "http://www.informatics.jax.org/marker/MGI:96240"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000004951",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000004951"
+        }
+    },
+    {
+        "Gene ID": 15978,
+        "Name": "Ifng",
+        "Symbol": "Ifng (provided by MGI)",
+        "Full Name": "interferon gamma",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "IFN-g; Ifg",
+        "Synonyms_list": [
+            "IFN-g",
+            "Ifg"
+        ],
+        "Chromosome": "10",
+        "Map location": "10 D2|10 66.75 cM",
+        "General protein information": "interferon gamma; IFN-gamma; gamma interferon",
+        "Summary": "This gene encodes a soluble cytokine that is a member of the type II interferon class. The encoded protein is secreted by cells of both the innate and adaptive immune systems. The active protein is a homodimer that binds to the interferon gamma receptor which triggers a cellular response to viral and microbial infections. Mice deficient in this gene have increased susceptibility to viral, bacterial and parasitic infections and to several autoimmune diseases. [provided by RefSeq, Dec 2015]",
+        "Entrez Gene ID": {
+            "text": "15978",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=15978"
+        },
+        "MGI": {
+            "text": "MGI:107656",
+            "href": "http://www.informatics.jax.org/marker/MGI:107656"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000055170",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000055170"
+        }
+    },
+    {
+        "Gene ID": 16153,
+        "Name": "Il10",
+        "Symbol": "Il10 (provided by MGI)",
+        "Full Name": "interleukin 10",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "CSIF; Il-10",
+        "Synonyms_list": [
+            "CSIF",
+            "Il-10"
+        ],
+        "Chromosome": "1",
+        "Map location": "1 E4|1 56.89 cM",
+        "General protein information": "interleukin-10; cytokine synthesis inhibitory factor",
+        "Summary": "This gene encodes an anti-inflammatory cytokine that is a member of the class-2 cytokine family. The encoded protein is secreted by cells of both the innate and adaptive immune systems and is crucial for limiting the immune response to a broad range of pathogens. It also has been shown to suppress autoimmune responses. This protein mediates it's immunosuppressive signal through a specific interleukin 10 receptor complex. Aberrant functioning of this gene is associated with numerous immune disorders including graft-versus-host disease, and increased susceptibility to HIV-1 infection and rheumatoid arthritis. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "16153",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16153"
+        },
+        "MGI": {
+            "text": "MGI:96537",
+            "href": "http://www.informatics.jax.org/marker/MGI:96537"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000016529",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000016529"
+        }
+    },
+    {
+        "Gene ID": 16159,
+        "Name": "Il12a",
+        "Symbol": "Il12a (provided by MGI)",
+        "Full Name": "interleukin 12a",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "IL-12p35; Il-12a; Ll12a; p35",
+        "Synonyms_list": [
+            "IL-12p35",
+            "Il-12a",
+            "Ll12a",
+            "p35"
+        ],
+        "Chromosome": "3",
+        "Map location": "3 E1|3 31.92 cM",
+        "General protein information": "interleukin-12 subunit alpha; CLMF p35; IL-12 p35 subunit; IL-12 subunit p35; cytotoxic lymphocyte maturation factor 35 kDa subunit; interleukin 12a p35 subunit; interleukin-12 p35 subunit",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16159",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16159"
+        },
+        "MGI": {
+            "text": "MGI:96539",
+            "href": "http://www.informatics.jax.org/marker/MGI:96539"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000027776",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000027776"
+        }
+    },
+    {
+        "Gene ID": 16160,
+        "Name": "Il12b",
+        "Symbol": "Il12b (provided by MGI)",
+        "Full Name": "interleukin 12b",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Il-12b; Il-12p40; Il12p40; p40",
+        "Synonyms_list": [
+            "Il-12b",
+            "Il-12p40",
+            "Il12p40",
+            "p40"
+        ],
+        "Chromosome": "11",
+        "Map location": "11 B1.1|11 25.94 cM",
+        "General protein information": "interleukin-12 subunit beta; CLMF p40; IL-12 p40 subunit; IL-12 subunit p40; IL-23 subunit p40; cytotoxic lymphocyte maturation factor 40 kDa subunit; interleukin-12 p40 subunit",
+        "Summary": "This gene encodes the beta subunit p40 of the Interleukin 12 (IL-12) family of cytokines. Members of the IL-12 family form heterodimers consisting of heavy and light subunits linked by disulfide bonds. The product of this gene, p40, is a subunit of interleukins IL-12 and IL-23. [provided by RefSeq, Dec 2014]",
+        "Entrez Gene ID": {
+            "text": "16160",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16160"
+        },
+        "MGI": {
+            "text": "MGI:96540",
+            "href": "http://www.informatics.jax.org/marker/MGI:96540"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000004296",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000004296"
+        }
+    },
+    {
+        "Gene ID": 16173,
+        "Name": "Il18",
+        "Symbol": "Il18 (provided by MGI)",
+        "Full Name": "interleukin 18",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Igif; Il-18",
+        "Synonyms_list": [
+            "Igif",
+            "Il-18"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 A5.3|9 27.75 cM",
+        "General protein information": "interleukin-18; IFN-gamma-inducing factor; IL-1 gamma; interferon gamma-inducing factor; interleukin-1 gamma",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16173",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16173"
+        },
+        "MGI": {
+            "text": "MGI:107936",
+            "href": "http://www.informatics.jax.org/marker/MGI:107936"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000039217",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000039217"
+        }
+    },
+    {
+        "Gene ID": 16176,
+        "Name": "Il1b",
+        "Symbol": "Il1b (provided by MGI)",
+        "Full Name": "interleukin 1 beta",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "IL-1beta; Il-1b",
+        "Synonyms_list": [
+            "IL-1beta",
+            "Il-1b"
+        ],
+        "Chromosome": "2",
+        "Map location": "2 F1|2 62.97 cM",
+        "General protein information": "interleukin-1 beta; IL-1 beta",
+        "Summary": "The protein encoded by this gene is a member of the interleukin 1 cytokine family. This cytokine is produced by activated macrophages as a proprotein, which is proteolytically processed to its active form by caspase 1. The encoded protein plays a role in thymocyte proliferation and is involved in the inflammatory response. [provided by RefSeq, Aug 2015]",
+        "Entrez Gene ID": {
+            "text": "16176",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16176"
+        },
+        "MGI": {
+            "text": "MGI:96543",
+            "href": "http://www.informatics.jax.org/marker/MGI:96543"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000027398",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000027398"
+        }
+    },
+    {
+        "Gene ID": 16181,
+        "Name": "Il1rn",
+        "Symbol": "Il1rn (provided by MGI)",
+        "Full Name": "interleukin 1 receptor antagonist",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "F630041P17Rik; IL-1ra",
+        "Synonyms_list": [
+            "F630041P17Rik",
+            "IL-1ra"
+        ],
+        "Chromosome": "2",
+        "Map location": "2 A3|2 16.36 cM",
+        "General protein information": "interleukin-1 receptor antagonist protein; IL-1RN; IL1 inhibitor; IRAP",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16181",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16181"
+        },
+        "MGI": {
+            "text": "MGI:96547",
+            "href": "http://www.informatics.jax.org/marker/MGI:96547"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000026981",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000026981"
+        }
+    },
+    {
+        "Gene ID": 16193,
+        "Name": "Il6",
+        "Symbol": "Il6 (provided by MGI)",
+        "Full Name": "interleukin 6",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Il-6",
+        "Synonyms_list": [
+            "Il-6"
+        ],
+        "Chromosome": "5",
+        "Map location": "5 B1|5 15.7 cM",
+        "General protein information": "interleukin-6; B-cell hybridoma growth factor; interleukin HP-1",
+        "Summary": "This gene encodes a member of the interleukin family of cytokines that have important functions in immune response, hematopoiesis, inflammation and the acute phase response. The ectopic overexpression of the encoded protein in mice results in excessive plasma cells in circulation, leading to death. Mice lacking the encoded protein exhibit abnormalities in hepatic acute phase response, some immune mechanisms, bone resorption in response to estrogen, liver regeneration and wound healing. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "16193",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16193"
+        },
+        "MGI": {
+            "text": "MGI:96559",
+            "href": "http://www.informatics.jax.org/marker/MGI:96559"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000025746",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000025746"
+        }
+    },
+    {
+        "Gene ID": 16331,
+        "Name": "Inpp5d",
+        "Symbol": "Inpp5d (provided by MGI)",
+        "Full Name": "inositol polyphosphate-5-phosphatase D",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "SHIP; SHIP-1; SHIP1; SIP-145; p150Ship; s-SHIP",
+        "Synonyms_list": [
+            "SHIP",
+            "SHIP-1",
+            "SHIP1",
+            "SIP-145",
+            "p150Ship",
+            "s-SHIP"
+        ],
+        "Chromosome": "1",
+        "Map location": "1 D|1 44.44 cM",
+        "General protein information": "phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1; SH2 domain-containing inositol 5'-phosphatase 1; SH2 domain-containing inositol phosphatase 1; SH2-containing inositol phosphatase SHIP; Src homology 2 domain-containing inositol-5-phosphatase; inositol polyphosphate-5-phosphatase, 145 kDa; phosphatidylinositol-4,5-bisphosphate 5-phosphatase",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16331",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16331"
+        },
+        "MGI": {
+            "text": "MGI:107357",
+            "href": "http://www.informatics.jax.org/marker/MGI:107357"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000026288",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000026288"
+        }
+    },
+    {
+        "Gene ID": 16409,
+        "Name": "Itgam",
+        "Symbol": "Itgam (provided by MGI)",
+        "Full Name": "integrin alpha M",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "CD11b/CD18; CR3; CR3A; Cd11b; F730045J24Rik; Ly-40; MAC1; Mac-1; Mac-1a",
+        "Synonyms_list": [
+            "CD11b/CD18",
+            "CR3",
+            "CR3A",
+            "Cd11b",
+            "F730045J24Rik",
+            "Ly-40",
+            "MAC1",
+            "Mac-1",
+            "Mac-1a"
+        ],
+        "Chromosome": "7",
+        "Map location": "7|7 F3",
+        "General protein information": "integrin alpha-M; CD11 antigen-like family member B; CD11B (p170); CR-3 alpha chain; Mac-1 alpha; cell surface glycoprotein MAC-1 alpha subunit; cell surface glycoprotein MAC-1 subunit alpha; complement component receptor 3 alpha-a; complement receptor type 3; leukocyte adhesion receptor MO1; macrophage antigen alpha",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16409",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16409"
+        },
+        "MGI": {
+            "text": "MGI:96607",
+            "href": "http://www.informatics.jax.org/marker/MGI:96607"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000030786",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000030786"
+        }
+    },
+    {
+        "Gene ID": 16639,
+        "Name": "Klra8",
+        "Symbol": "Klra8 (provided by MGI)",
+        "Full Name": "killer cell lectin-like receptor, subfamily A, member 8",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Cmv-1; Cmv1; Ly49h; Ly49u<129>",
+        "Synonyms_list": [
+            "Cmv-1",
+            "Cmv1",
+            "Ly49h",
+            "Ly49u<129>"
+        ],
+        "Chromosome": "6",
+        "Map location": "6 F3|6 63.44 cM",
+        "General protein information": "killer cell lectin-like receptor 8; T-cell surface glycoprotein Ly-49H; cytomegalovirus resistance 1; ly-49h; lymphocyte antigen 49h",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16639",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16639"
+        },
+        "MGI": {
+            "text": "MGI:102968",
+            "href": "http://www.informatics.jax.org/marker/MGI:102968"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000089727",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000089727"
+        }
+    },
+    {
+        "Gene ID": 16835,
+        "Name": "Ldlr",
+        "Symbol": "Ldlr (provided by MGI)",
+        "Full Name": "low density lipoprotein receptor",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Hlb301",
+        "Synonyms_list": [
+            "Hlb301"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 A3|9 7.87 cM",
+        "General protein information": "low-density lipoprotein receptor; LDL receptor",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "16835",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=16835"
+        },
+        "MGI": {
+            "text": "MGI:96765",
+            "href": "http://www.informatics.jax.org/marker/MGI:96765"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032193",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032193"
+        }
+    },
+    {
+        "Gene ID": 17002,
+        "Name": "Ltf",
+        "Symbol": "Ltf (provided by MGI)",
+        "Full Name": "lactotransferrin",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Csp82; Lf; MMS10R; Ms10r",
+        "Synonyms_list": [
+            "Csp82",
+            "Lf",
+            "MMS10R",
+            "Ms10r"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 F2|9 60.79 cM",
+        "General protein information": "lactotransferrin; N lobe; lactoferrin; minisatellite 10r detected by probe MMS10",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "17002",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=17002"
+        },
+        "MGI": {
+            "text": "MGI:96837",
+            "href": "http://www.informatics.jax.org/marker/MGI:96837"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032496",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032496"
+        }
+    },
+    {
+        "Gene ID": 17192,
+        "Name": "Mbd3",
+        "Symbol": "Mbd3 (provided by MGI)",
+        "Full Name": "methyl-CpG binding domain protein 3",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AI181826; AU019209",
+        "Synonyms_list": [
+            "AI181826",
+            "AU019209"
+        ],
+        "Chromosome": "10",
+        "Map location": "10 C1|10 39.72 cM",
+        "General protein information": "methyl-CpG-binding domain protein 3; methyl-CpG-binding protein MBD3",
+        "Summary": "This gene encodes a member of the MBD family of nuclear proteins that contain a methyl-CpG binding domain (MBD). The encoded protein is a component of the nucleosome remodeling and histone deacetylation (NuRD) complex. Deletion of this gene causes embryonic lethality in mice. Embryonic stem cells lacking the encoded protein are severely compromised in their ability to differentiate and fail to commit to developmental lineages in the absence of leukemia inhibitory factor. Alternative splicing results in multiple transcript variants encoding different isoforms. [provided by RefSeq, Apr 2015]",
+        "Entrez Gene ID": {
+            "text": "17192",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=17192"
+        },
+        "MGI": {
+            "text": "MGI:1333812",
+            "href": "http://www.informatics.jax.org/marker/MGI:1333812"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000035478",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000035478"
+        }
+    },
+    {
+        "Gene ID": 17874,
+        "Name": "Myd88",
+        "Symbol": "Myd88 (provided by MGI)",
+        "Full Name": "myeloid differentiation primary response gene 88",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 F3|9 71.33 cM",
+        "General protein information": "myeloid differentiation primary response protein MyD88; myeloid differentiation primary response protein 88",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "17874",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=17874"
+        },
+        "MGI": {
+            "text": "MGI:108005",
+            "href": "http://www.informatics.jax.org/marker/MGI:108005"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032508",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032508"
+        }
+    },
+    {
+        "Gene ID": 18126,
+        "Name": "Nos2",
+        "Symbol": "Nos2 (provided by MGI)",
+        "Full Name": "nitric oxide synthase 2, inducible",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "MAC-NOS; NOS-II; Nos-2; Nos2a; i-NOS; iNOS",
+        "Synonyms_list": [
+            "MAC-NOS",
+            "NOS-II",
+            "Nos-2",
+            "Nos2a",
+            "i-NOS",
+            "iNOS"
+        ],
+        "Chromosome": "11",
+        "Map location": "11 B5|11 46.74 cM",
+        "General protein information": "nitric oxide synthase, inducible; NOS type II; inducible NO synthase; inducible NOS; inducible nitric oxide synthase; macrophage NOS; nitric oxide synthase 2, inducible, macrophage; peptidyl-cysteine S-nitrosylase NOS2",
+        "Summary": "Nitric oxide is a reactive free radical which acts as a biologic mediator in several processes, including neurotransmission and antimicrobial and antitumoral activities. This gene encodes a nitric oxide synthase that is inducible by a combination of lipopolysaccharide and certain cytokines. Three transcript variants encoding two different isoforms have been found for this gene. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "18126",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=18126"
+        },
+        "MGI": {
+            "text": "MGI:97361",
+            "href": "http://www.informatics.jax.org/marker/MGI:97361"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000020826",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000020826"
+        }
+    },
+    {
+        "Gene ID": 18484,
+        "Name": "Pam",
+        "Symbol": "Pam (provided by MGI)",
+        "Full Name": "peptidylglycine alpha-amidating monooxygenase",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "PHM",
+        "Synonyms_list": [
+            "PHM"
+        ],
+        "Chromosome": "1",
+        "Map location": "1 D|1 47.76 cM",
+        "General protein information": "peptidyl-glycine alpha-amidating monooxygenase; PEPTIDYL-GLYCINE ALPHA-AMIDATING MONOOXYGENASE PRECURSOR (PAM)",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "18484",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=18484"
+        },
+        "MGI": {
+            "text": "MGI:97475",
+            "href": "http://www.informatics.jax.org/marker/MGI:97475"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000026335",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000026335"
+        }
+    },
+    {
+        "Gene ID": 19373,
+        "Name": "Rag1",
+        "Symbol": "Rag1 (provided by MGI)",
+        "Full Name": "recombination activating 1",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Rag-1",
+        "Synonyms_list": [
+            "Rag-1"
+        ],
+        "Chromosome": "2",
+        "Map location": "2 E2|2 53.88 cM",
+        "General protein information": "V(D)J recombination-activating protein 1; recombinase activating gene 1; recombination activating gene 1; recombination activating protein 1",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "19373",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=19373"
+        },
+        "MGI": {
+            "text": "MGI:97848",
+            "href": "http://www.informatics.jax.org/marker/MGI:97848"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000061311",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000061311"
+        }
+    },
+    {
+        "Gene ID": 20371,
+        "Name": "Foxp3",
+        "Symbol": "Foxp3 (provided by MGI)",
+        "Full Name": "forkhead box P3",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "JM2; scurfin; sf",
+        "Synonyms_list": [
+            "JM2",
+            "scurfin",
+            "sf"
+        ],
+        "Chromosome": "X",
+        "Map location": "X A1.1|X 3.41 cM",
+        "General protein information": "forkhead box protein P3; scurfy",
+        "Summary": "The protein encoded by this gene is a member of the forkhead/winged-helix family of transcriptional regulators. Defects in this gene result in the scurfy phenotype (sf). Alternative splicing results in multiple transcript variants. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "20371",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=20371"
+        },
+        "MGI": {
+            "text": "MGI:1891436",
+            "href": "http://www.informatics.jax.org/marker/MGI:1891436"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000039521",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000039521"
+        }
+    },
+    {
+        "Gene ID": 20586,
+        "Name": "Smarca4",
+        "Symbol": "Smarca4 (provided by MGI)",
+        "Full Name": "SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "BAF190A; Brg1; HP1-BP72; SNF2beta; SW1/SNF; b2b508.1Clo; b2b692Clo",
+        "Synonyms_list": [
+            "BAF190A",
+            "Brg1",
+            "HP1-BP72",
+            "SNF2beta",
+            "SW1/SNF",
+            "b2b508.1Clo",
+            "b2b692Clo"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 A3|9 7.84 cM",
+        "General protein information": "transcription activator BRG1; ATP-dependent helicase SMARCA4; BRG1-associated factor 190A; SNF2-beta; SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 4; protein brahma homolog 1",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "20586",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=20586"
+        },
+        "MGI": {
+            "text": "MGI:88192",
+            "href": "http://www.informatics.jax.org/marker/MGI:88192"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032187",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032187"
+        }
+    },
+    {
+        "Gene ID": 21838,
+        "Name": "Thy1",
+        "Symbol": "Thy1 (provided by MGI)",
+        "Full Name": "thymus cell antigen 1, theta",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "CD90; T25; Thy-1; Thy-1.2; Thy1.1; Thy1.2",
+        "Synonyms_list": [
+            "CD90",
+            "T25",
+            "Thy-1",
+            "Thy-1.2",
+            "Thy1.1",
+            "Thy1.2"
+        ],
+        "Chromosome": "9",
+        "Map location": "9 A5.1|9 24.52 cM",
+        "General protein information": "thy-1 membrane glycoprotein; thy-1 antigen",
+        "Summary": "This gene encodes a glycoprotein that is anchored to the cell surface of thymocytes, neuronal and other cells through a glycosyl-phosphatidylinositol moiety. A soluble form of the encoded protein has also been detected in serum and cerebrospinal fluid. The encoded protein undergoes further processing to generate the mature protein which mediates cell-cell interactions to trigger downstream signaling pathways. [provided by RefSeq, Jul 2015]",
+        "Entrez Gene ID": {
+            "text": "21838",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=21838"
+        },
+        "MGI": {
+            "text": "MGI:98747",
+            "href": "http://www.informatics.jax.org/marker/MGI:98747"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032011",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032011"
+        }
+    },
+    {
+        "Gene ID": 21898,
+        "Name": "Tlr4",
+        "Symbol": "Tlr4 (provided by MGI)",
+        "Full Name": "toll-like receptor 4",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Lps; Ly87; Ran/M1; Rasl2-8",
+        "Synonyms_list": [
+            "Lps",
+            "Ly87",
+            "Ran/M1",
+            "Rasl2-8"
+        ],
+        "Chromosome": "4",
+        "Map location": "4 C1|4 34.66 cM",
+        "General protein information": "toll-like receptor 4; Toll like receptor 4; lipopolysaccharide response",
+        "Summary": "This gene belongs to the evolutionarily-conserved Toll-like receptor family, whose members are type-1 transmembrane proteins that are involved in innate immunity. Toll-like receptors are characterized by an extracellular leucine-rich repeat domain that functions in ligand recognition and an intracellular toll/interleukin-1 receptor-like domain that is crucial for signal transduction. The receptor encoded by this gene mediates the innate immune response to bacterial lipopolysaccharide, a major component of the outer membrane of Gram-negative bacteria, through synthesis of pro-inflammatory cytokines and chemokines. In addition, this protein can recognize other pathogens from Gram-negative and Gram-positive bacteria as well as viral components. Mice deficient in this gene display a number of immune response-related phenotypes including hyporesponsiveness to bacterial lipopolysaccharide and increased levels of respiratory syncytial virus compared to controls. [provided by RefSeq, Sep 2015]",
+        "Entrez Gene ID": {
+            "text": "21898",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=21898"
+        },
+        "MGI": {
+            "text": "MGI:96824",
+            "href": "http://www.informatics.jax.org/marker/MGI:96824"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000039005",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000039005"
+        }
+    },
+    {
+        "Gene ID": 21926,
+        "Name": "Tnf",
+        "Symbol": "Tnf (provided by MGI)",
+        "Full Name": "tumor necrosis factor",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "DIF; TNF-a; TNF-alpha; TNFSF2; TNFalpha; Tnfa; Tnfsf1a; Tnlg1f",
+        "Synonyms_list": [
+            "DIF",
+            "TNF-a",
+            "TNF-alpha",
+            "TNFSF2",
+            "TNFalpha",
+            "Tnfa",
+            "Tnfsf1a",
+            "Tnlg1f"
+        ],
+        "Chromosome": "17",
+        "Map location": "17 B1|17 18.59 cM",
+        "General protein information": "tumor necrosis factor; cachectin; tumor necrosis factor ligand 1f; tumor necrosis factor ligand superfamily member 2; tumor necrosis factor-alpha",
+        "Summary": "This gene encodes a multifunctional proinflammatory cytokine that belongs to the tumor necrosis factor (TNF) superfamily. Members of this family are classified based on primary sequence, function, and structure. This protein is synthesized as a type-II transmembrane protein and is reported to be cleaved into products that exert distinct biological functions. It plays an important role in the innate immune response as well as regulating homeostasis but is also implicated in diseases of chronic inflammation. In mouse deficiency of this gene is associated with defects in response to bacterial infection, with defects in forming organized follicular dendritic cell networks and germinal centers, and with a lack of primary B cell follicles. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jun 2013]",
+        "Entrez Gene ID": {
+            "text": "21926",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=21926"
+        },
+        "MGI": {
+            "text": "MGI:104798",
+            "href": "http://www.informatics.jax.org/marker/MGI:104798"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000024401",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000024401"
+        }
+    },
+    {
+        "Gene ID": 24088,
+        "Name": "Tlr2",
+        "Symbol": "Tlr2 (provided by MGI)",
+        "Full Name": "toll-like receptor 2",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Ly105",
+        "Synonyms_list": [
+            "Ly105"
+        ],
+        "Chromosome": "3",
+        "Map location": "3|3 E3",
+        "General protein information": "toll-like receptor 2",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "24088",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=24088"
+        },
+        "MGI": {
+            "text": "MGI:1346060",
+            "href": "http://www.informatics.jax.org/marker/MGI:1346060"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000027995",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000027995"
+        }
+    },
+    {
+        "Gene ID": 27261,
+        "Name": "Dok3",
+        "Symbol": "Dok3 (provided by MGI)",
+        "Full Name": "docking protein 3",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AI450713; Dokl",
+        "Synonyms_list": [
+            "AI450713",
+            "Dokl"
+        ],
+        "Chromosome": "13",
+        "Map location": "13|13 B1",
+        "General protein information": "docking protein 3; DOK-L; Dok-like protein; downstream of tyrosine kinase 3; p62(dok)-like protein; p62Dok-like protein",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "27261",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=27261"
+        },
+        "MGI": {
+            "text": "MGI:1351490",
+            "href": "http://www.informatics.jax.org/marker/MGI:1351490"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000035711",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000035711"
+        }
+    },
+    {
+        "Gene ID": 50929,
+        "Name": "Il22",
+        "Symbol": "Il22 (provided by MGI)",
+        "Full Name": "interleukin 22",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "IL-22; IL-22a; ILTIFa; Iltif",
+        "Synonyms_list": [
+            "IL-22",
+            "IL-22a",
+            "ILTIFa",
+            "Iltif"
+        ],
+        "Chromosome": "10",
+        "Map location": "10 D2|10 66.67 cM",
+        "General protein information": "interleukin-22; IL-10-related T-cell-derived-inducible factor; IL-TIF alpha; ILTIF alpha; interleukin 10-related T cell-derived inducible factor; interleukin-22a",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "50929",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=50929"
+        },
+        "MGI": {
+            "text": "MGI:1355307",
+            "href": "http://www.informatics.jax.org/marker/MGI:1355307"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000074695",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000074695"
+        }
+    },
+    {
+        "Gene ID": 51792,
+        "Name": "Ppp2r1a",
+        "Symbol": "Ppp2r1a (provided by MGI)",
+        "Full Name": "protein phosphatase 2, regulatory subunit A, alpha",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "6330556D22Rik; PP2A; PR65",
+        "Synonyms_list": [
+            "6330556D22Rik",
+            "PP2A",
+            "PR65"
+        ],
+        "Chromosome": "17",
+        "Map location": "17|17 A3.2",
+        "General protein information": "serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform; PP2A subunit A isoform PR65-alpha; PP2A subunit A isoform R1-alpha; protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), alpha isoform; protein phosphatase PP2A; serine/threonine protein phosphatase A subunit type 2A",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "51792",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=51792"
+        },
+        "MGI": {
+            "text": "MGI:1926334",
+            "href": "http://www.informatics.jax.org/marker/MGI:1926334"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000007564",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000007564"
+        }
+    },
+    {
+        "Gene ID": 53791,
+        "Name": "Tlr5",
+        "Symbol": "Tlr5 (provided by MGI)",
+        "Full Name": "toll-like receptor 5",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "1",
+        "Map location": "1 H5|1 86.12 cM",
+        "General protein information": "toll-like receptor 5",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "53791",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=53791"
+        },
+        "MGI": {
+            "text": "MGI:1858171",
+            "href": "http://www.informatics.jax.org/marker/MGI:1858171"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000079164",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000079164"
+        }
+    },
+    {
+        "Gene ID": 56644,
+        "Name": "Clec7a",
+        "Symbol": "Clec7a (provided by MGI)",
+        "Full Name": "C-type lectin domain family 7, member a",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "BGR; Clecsf12; beta-GR",
+        "Synonyms_list": [
+            "BGR",
+            "Clecsf12",
+            "beta-GR"
+        ],
+        "Chromosome": "6",
+        "Map location": "6|6 F3",
+        "General protein information": "C-type lectin domain family 7 member A; C-type (calcium dependent, carbohydrate recognition domain) lectin, superfamily member 12; C-type lectin superfamily member 12; DC-associated C-type lectin 1; beta-glucan receptor; dectin-1; dendritic cell-associated C-type lectin 1",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "56644",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=56644"
+        },
+        "MGI": {
+            "text": "MGI:1861431",
+            "href": "http://www.informatics.jax.org/marker/MGI:1861431"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000079293",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000079293"
+        }
+    },
+    {
+        "Gene ID": 56717,
+        "Name": "Mtor",
+        "Symbol": "Mtor (provided by MGI)",
+        "Full Name": "mechanistic target of rapamycin kinase",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "2610315D21Rik; AI327068; FRAP; FRAP2; Frap1; RAFT1; RAPT1; flat",
+        "Synonyms_list": [
+            "2610315D21Rik",
+            "AI327068",
+            "FRAP",
+            "FRAP2",
+            "Frap1",
+            "RAFT1",
+            "RAPT1",
+            "flat"
+        ],
+        "Chromosome": "4",
+        "Map location": "4 E2|4 78.76 cM",
+        "General protein information": "serine/threonine-protein kinase mTOR; FK506 binding protein 12-rapamycin associated protein 1; FK506-binding protein 12-rapamycin complex-associated protein 1; FKBP-rapamycin associated protein (FRAP); FKBP12-rapamycin complex-associated protein; angiopoietin-like factor CDT6; mammalian target of rapamycin; mechanistic target of rapamycin (serine/threonine kinase); rapamycin target protein 1",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "56717",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=56717"
+        },
+        "MGI": {
+            "text": "MGI:1928394",
+            "href": "http://www.informatics.jax.org/marker/MGI:1928394"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000028991",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000028991"
+        }
+    },
+    {
+        "Gene ID": 111343,
+        "Name": "Il1",
+        "Symbol": "Il1 (provided by MGI)",
+        "Full Name": "interleukin 1 complex",
+        "Gene type": "other",
+        "Organism": "Mus musculus",
+        "Synonyms": "Il-1",
+        "Synonyms_list": [
+            "Il-1"
+        ],
+        "Chromosome": "2",
+        "Map location": "-",
+        "General protein information": "-",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "111343",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=111343"
+        },
+        "MGI": {
+            "text": "MGI:96536",
+            "href": "http://www.informatics.jax.org/marker/MGI:96536"
+        }
+    },
+    {
+        "Gene ID": 140858,
+        "Name": "Wdr5",
+        "Symbol": "Wdr5 (provided by MGI)",
+        "Full Name": "WD repeat domain 5",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "2410008O07Rik; AA408785; AA960360; Big; Big-3",
+        "Synonyms_list": [
+            "2410008O07Rik",
+            "AA408785",
+            "AA960360",
+            "Big",
+            "Big-3"
+        ],
+        "Chromosome": "2",
+        "Map location": "2|2 A3",
+        "General protein information": "WD repeat-containing protein 5; BMP2-induced 3-kb gene protein; WD repeat-containing protein BIG-3",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "140858",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=140858"
+        },
+        "MGI": {
+            "text": "MGI:2155884",
+            "href": "http://www.informatics.jax.org/marker/MGI:2155884"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000026917",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000026917"
+        }
+    },
+    {
+        "Gene ID": 142980,
+        "Name": "Tlr3",
+        "Symbol": "Tlr3 (provided by MGI)",
+        "Full Name": "toll-like receptor 3",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AI957183",
+        "Synonyms_list": [
+            "AI957183"
+        ],
+        "Chromosome": "8",
+        "Map location": "8|8 B1.1",
+        "General protein information": "toll-like receptor 3",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "142980",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=142980"
+        },
+        "MGI": {
+            "text": "MGI:2156367",
+            "href": "http://www.informatics.jax.org/marker/MGI:2156367"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000031639",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000031639"
+        }
+    },
+    {
+        "Gene ID": 216799,
+        "Name": "Nlrp3",
+        "Symbol": "Nlrp3 (provided by MGI)",
+        "Full Name": "NLR family, pyrin domain containing 3",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "AGTAVPRL; AII/AVP; Cias1; FCAS; FCU; MWS; Mmig1; NALP3; Pypaf1",
+        "Synonyms_list": [
+            "AGTAVPRL",
+            "AII/AVP",
+            "Cias1",
+            "FCAS",
+            "FCU",
+            "MWS",
+            "Mmig1",
+            "NALP3",
+            "Pypaf1"
+        ],
+        "Chromosome": "11",
+        "Map location": "11|11 B1.3",
+        "General protein information": "NACHT, LRR and PYD domains-containing protein 3; NACHT/LRR/pyrin domain-containing protein 3; PYRIN-containing APAF1-like protein 1; cold autoinflammatory syndrome 1 protein homolog; cryopyrin; mast cell maturation-associated-inducible protein 1",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "216799",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=216799"
+        },
+        "MGI": {
+            "text": "MGI:2653833",
+            "href": "http://www.informatics.jax.org/marker/MGI:2653833"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000032691",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000032691"
+        }
+    },
+    {
+        "Gene ID": 246278,
+        "Name": "Cd207",
+        "Symbol": "Cd207 (provided by MGI)",
+        "Full Name": "CD207 antigen",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "6",
+        "Map location": "6|6 C3",
+        "General protein information": "C-type lectin domain family 4 member K; Langerhans cell specific c-type lectin; langerin",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "246278",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=246278"
+        },
+        "MGI": {
+            "text": "MGI:2180021",
+            "href": "http://www.informatics.jax.org/marker/MGI:2180021"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000034783",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000034783"
+        }
+    },
+    {
+        "Gene ID": 257632,
+        "Name": "Nod2",
+        "Symbol": "Nod2 (provided by MGI)",
+        "Full Name": "nucleotide-binding oligomerization domain containing 2",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "ACUG; BLAU; CD; Card15; F830032C23Rik; IBD1; Nlrc2",
+        "Synonyms_list": [
+            "ACUG",
+            "BLAU",
+            "CD",
+            "Card15",
+            "F830032C23Rik",
+            "IBD1",
+            "Nlrc2"
+        ],
+        "Chromosome": "8",
+        "Map location": "8|8 C3",
+        "General protein information": "nucleotide-binding oligomerization domain-containing protein 2; caspase recruitment domain family, member 15; caspase recruitment domain-containing protein 15",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "257632",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=257632"
+        },
+        "MGI": {
+            "text": "MGI:2429397",
+            "href": "http://www.informatics.jax.org/marker/MGI:2429397"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000055994",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000055994"
+        }
+    },
+    {
+        "Gene ID": 268903,
+        "Name": "Nrip1",
+        "Symbol": "Nrip1 (provided by MGI)",
+        "Full Name": "nuclear receptor interacting protein 1",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "6030458L20Rik; 8430438I05Rik; 9630050P12; AA959574; AW456757; RIP140",
+        "Synonyms_list": [
+            "6030458L20Rik",
+            "8430438I05Rik",
+            "9630050P12",
+            "AA959574",
+            "AW456757",
+            "RIP140"
+        ],
+        "Chromosome": "16",
+        "Map location": "16|16 C3.1",
+        "General protein information": "nuclear receptor-interacting protein 1; nrip1; nuclear factor RIP140; receptor-interacting protein 140",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "268903",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=268903"
+        },
+        "MGI": {
+            "text": "MGI:1315213",
+            "href": "http://www.informatics.jax.org/marker/MGI:1315213"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000048490",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000048490"
+        }
+    },
+    {
+        "Gene ID": 268973,
+        "Name": "Nlrc4",
+        "Symbol": "Nlrc4 (provided by MGI)",
+        "Full Name": "NLR family, CARD domain containing 4",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "9530011P19Rik; CLAN; CLAN1; CLANA; CLANB; CLANC; CLAND; Card12; IPAF",
+        "Synonyms_list": [
+            "9530011P19Rik",
+            "CLAN",
+            "CLAN1",
+            "CLANA",
+            "CLANB",
+            "CLANC",
+            "CLAND",
+            "Card12",
+            "IPAF"
+        ],
+        "Chromosome": "17",
+        "Map location": "17|17 E2",
+        "General protein information": "NLR family CARD domain-containing protein 4; caspase recruitment domain family, member 12; caspase recruitment domain-containing protein 12; ice protease-activating factor",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "268973",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=268973"
+        },
+        "MGI": {
+            "text": "MGI:3036243",
+            "href": "http://www.informatics.jax.org/marker/MGI:3036243"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000039193",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000039193"
+        }
+    },
+    {
+        "Gene ID": 282665,
+        "Name": "Serpinb1-ps1",
+        "Symbol": "Serpinb1-ps1 (provided by MGI)",
+        "Full Name": "serine (or cysteine) peptidase inhibitor, clade B, member 1, pseudogene",
+        "Gene type": "pseudo",
+        "Organism": "Mus musculus",
+        "Synonyms": "EID; ovalbumin",
+        "Synonyms_list": [
+            "EID",
+            "ovalbumin"
+        ],
+        "Chromosome": "13",
+        "Map location": "13 A3.2|13 13.76 cM",
+        "General protein information": "serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 1, pseudogene; serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 1a pseudogene; serine (or cysteine) proteinase inhibitor, clade B, member 1, pseudogene",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "282665",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=282665"
+        },
+        "MGI": {
+            "text": "MGI:2445366",
+            "href": "http://www.informatics.jax.org/marker/MGI:2445366"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000081433",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000081433"
+        }
+    },
+    {
+        "Gene ID": 378425,
+        "Name": "Nlrp12",
+        "Symbol": "Nlrp12 (provided by MGI)",
+        "Full Name": "NLR family, pyrin domain containing 12",
+        "Gene type": "protein-coding",
+        "Organism": "Mus musculus",
+        "Synonyms": "Nalp12; PYPAF7; monarch-1",
+        "Synonyms_list": [
+            "Nalp12",
+            "PYPAF7",
+            "monarch-1"
+        ],
+        "Chromosome": "7",
+        "Map location": "7|7 A1",
+        "General protein information": "NACHT, LRR and PYD domains-containing protein 12; PYRIN-containing APAF1-like protein 7",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "378425",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=378425"
+        },
+        "MGI": {
+            "text": "MGI:2676630",
+            "href": "http://www.informatics.jax.org/marker/MGI:2676630"
+        },
+        "Ensembl": {
+            "text": "ENSMUSG00000078817",
+            "href": "http://www.ensembl.org/id/ENSMUSG00000078817"
+        }
+    },
+    {
+        "Gene ID": 24599,
+        "Name": "Nos2",
+        "Symbol": "Nos2",
+        "Full Name": "nitric oxide synthase 2",
+        "Gene type": "protein-coding",
+        "Organism": "Rattus norvegicus",
+        "Synonyms": "Nos2a; iNos",
+        "Synonyms_list": [
+            "Nos2a",
+            "iNos"
+        ],
+        "Chromosome": "10",
+        "Map location": "10q25",
+        "General protein information": "nitric oxide synthase, inducible; NOS type II; inducible NO synthase; inducible NOS; inducible nitric oxide synthase; nitric oxide synthase 2, inducible, macrophage; peptidyl-cysteine S-nitrosylase NOS2",
+        "Summary": "cytokine-inducible enzmyme involved in nitric oxide (NO) production [RGD, Feb 2006]",
+        "Entrez Gene ID": {
+            "text": "24599",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=24599"
+        },
+        "RGD": {
+            "text": "3185",
+            "href": "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=3185"
+        },
+        "Ensembl": {
+            "text": "ENSRNOG00000057443",
+            "href": "http://www.ensembl.org/id/ENSRNOG00000057443"
+        }
+    },
+    {
+        "Gene ID": 24693,
+        "Name": "Ptgs1",
+        "Symbol": "Ptgs1",
+        "Full Name": "prostaglandin-endoperoxide synthase 1",
+        "Gene type": "protein-coding",
+        "Organism": "Rattus norvegicus",
+        "Synonyms": "Cox-1; Cox-3; Cox1; Cox3; Pghs-1",
+        "Synonyms_list": [
+            "Cox-1",
+            "Cox-3",
+            "Cox1",
+            "Cox3",
+            "Pghs-1"
+        ],
+        "Chromosome": "3",
+        "Map location": "3p11",
+        "General protein information": "prostaglandin G/H synthase 1; PGH synthase 1; PHS 1; cyclooxygenase 3; cyclooxygenase-1; prostaglandin G/H synthase and cyclooxygenase; prostaglandin H2 synthase 1",
+        "Summary": "This is one of two genes encoding similar enzymes that catalyze the conversion of arachinodate to prostaglandin. The encoded protein regulates angiogenesis in endothelial cells, and is inhibited by nonsteroidal anti-inflammatory drugs such as aspirin. Based on its ability to function as both a cyclooxygenase and as a peroxidase, the encoded protein has been identified as a moonlighting protein. [provided by RefSeq, Jan 2014]",
+        "Entrez Gene ID": {
+            "text": "24693",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=24693"
+        },
+        "RGD": {
+            "text": "3439",
+            "href": "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=3439"
+        },
+        "Ensembl": {
+            "text": "ENSRNOG00000007415",
+            "href": "http://www.ensembl.org/id/ENSRNOG00000007415"
+        }
+    },
+    {
+        "Gene ID": 24835,
+        "Name": "Tnf",
+        "Symbol": "Tnf",
+        "Full Name": "tumor necrosis factor",
+        "Gene type": "protein-coding",
+        "Organism": "Rattus norvegicus",
+        "Synonyms": "RATTNF; TNF-alpha; Tnfa",
+        "Synonyms_list": [
+            "RATTNF",
+            "TNF-alpha",
+            "Tnfa"
+        ],
+        "Chromosome": "20",
+        "Map location": "20p12",
+        "General protein information": "tumor necrosis factor; cachectin; tumor necrosis factor (TNF superfamily, member 2); tumor necrosis factor alpha; tumor necrosis factor ligand superfamily member 2",
+        "Summary": "acts as a cytokine; binds TNF receptors; plays a role in regulation of cell proliferation, induction of apoptosis, and inflammatory response [RGD, Feb 2006]",
+        "Entrez Gene ID": {
+            "text": "24835",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=24835"
+        },
+        "RGD": {
+            "text": "3876",
+            "href": "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=3876"
+        },
+        "Ensembl": {
+            "text": "ENSRNOG00000055156",
+            "href": "http://www.ensembl.org/id/ENSRNOG00000055156"
+        }
+    },
+    {
+        "Gene ID": 103694380,
+        "Name": "LOC103694380",
+        "Symbol": "LOC103694380",
+        "Full Name": "tumor necrosis factor-like",
+        "Gene type": "protein-coding",
+        "Organism": "Rattus norvegicus",
+        "Synonyms": "-",
+        "Synonyms_list": [
+            "-"
+        ],
+        "Chromosome": "20",
+        "Map location": "20p12",
+        "General protein information": "tumor necrosis factor",
+        "Summary": "",
+        "Entrez Gene ID": {
+            "text": "103694380",
+            "href": "https://www.ncbi.nlm.nih.gov/gene?cmd=Retrieve&dopt=Graphics&list_uids=103694380"
+        },
+        "RGD": {
+            "text": "9404643",
+            "href": "https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=9404643"
+        },
+        "Ensembl": {
+            "text": "ENSRNOG00000000837",
+            "href": "http://www.ensembl.org/id/ENSRNOG00000000837"
+        }
+    }
+]

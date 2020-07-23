@@ -1,0 +1,183 @@
+extends common/layout
+block css
+    style.
+        .helpImage{border:1px solid #888;border-radius:5px;max-width:80%}
+        .helpImageContainer{margin-top:5px;margin-bottom:5px;text-align:center}
+        .faq{border:1px solid #428bca;margin-bottom:20px;padding:15px;border-radius:4px}
+block content
+    .row
+        .col-md-12 
+            <ol style="margin-bottom:20px">
+               <li><a href="#q1">What is the TIDB?</a></li>
+               <li><a href="#q2">How can I search trained immunity-related genes and their supporting literature evidence in the database?</a></li>
+               <li><a href="#q3">How can I perform downstream analysis on searched genes of interest?</a></li>
+               <li><a href="#q4">How can I browse and download the data?</a></li>
+               <li><a href="#q5">How can I guarantee data quality in the database?</a></li>
+               <li><a href="#q6">Can I provide feedback to the evidence of trained immunity-related genes?</a></li>
+               <li><a href="#q7">Do I need to log in for manual curation?</a></li>
+            </ol>
+        .col-md-12.faq
+            h4#q1 1. What is the TIDB?
+            p The <b>TIDB</b> refers to "<b>T</b>rained <b>I</b>mmunity <b>D</b>ata<b>B</b>ase”. It contains a comprehensive list set of well-annotated trained immunity-related genes with their correspondent evidences in literature, derived by text mining and manual curation. Moreover, <b>TIDB</b> also provides three modules to analyze genes of interest, including Reactome pathway over-representation analysis, GO enrichment analysis and PPI network reconstruction.
+        .col-md-12.faq
+            h4#q2 2. How can I search trained immunity-related genes and their supporting literature evidence in the database?
+            p You can input a single gene name&#47symbol or a list of gene names&#47symbols (one gene per line) to launch the search process in the database. For a quick trial, you can just click the example displayed above the input box to view a sample list of gene symbols.
+            p After clicking the "Search" button, the search engine will run and return the queried results as a three columns table, gene symbol, organism and the supporting literature evidence.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/search.png" alt="TIDB search")
+            p By clicking the hyperlink of the gene symbol in the "Gene column", you can see the basic information of the gene and the cross references to external databases (i.e. NCBI Entrez Gene, Ensemble).
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/gene_information.png" alt="gene information")
+            p The result table will be resorted in ascending&#47descending order by the column by clicking the small triangle in the head of each column. And you can select a term in the drop list displayed below the column header to filter the listed genes or organisms from the results.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/result_filter.png" alt="filter and order search result")
+            p When you click the hyperlink of the number of the evidence abstracts in the "Pubmed abstracts" column, a table containing gene name, gene symbol, organism, PubMed ID, evidence and manual validation will be displayed. Then, you can click on the "Evidence" column to see the original abstract in which the keywords, such as gene names, are highlighted.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/pubmed_highlight.png" alt="highlight evidence")
+        .col-md-12.faq
+            h4#q3 3. How can I perform downstream analysis on searched genes of interest?
+            p Once the search process is completed. You can select the genes of interest in the search results to perform three downstream analysis, including Reactome pathway over-representation analysis, GO enrichment analysis and PPI network reconstruction. These three analysis modules displayed below the search results, and you can click the three buttons to perform the corresponding analysis. <b>Please note to select the genes of the same organism.</b>
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/analysis_modules.png" alt="analysis modules")
+            h5 (1) Reactome pathway over-representation analysis
+            p <b>TIDB</b> integrates the pathway over-representation analysis via Reactome web service. Once you select the genes of interest and click the "Reactome" button, it will then perform Reactome over-representation analysis and pop up a new page to show the results. 
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/Reactome_result.png" alt="Reactome result")
+            p Analysis results are shown in the Analysis tab, within the Details Panel. All Reactome pathways are shown, in blocks of 20 pathways, ranked by the p-value obtained from over-representation analysis. If multiple pathways have the same pvalue, they are ranked by the number of identifiers in the query that match the pathway. The number of molecules matched&#47total number of molecules and FDR values are added to the right side of pathway names in the Hierarchy Panel. The names of reactions that match at least one identifier in the query, representing positive pathway topology analysis hits, are boxed in orange.
+            p In the Analysis tab, clicking on the name of a pathway will select it in the Hierarchy, which if neccessary will expand hidden hierarchical levels to show the pathway, while the name becomes highlighted in dark blue.
+            p The columns in analysis details represent:
+            <ol>
+                <li>
+                    <span>Pathway name: Click the name to open the pathway.</span>
+                </li>
+                <li>
+                    <span>Entities found: the number of curated molecules of the type selected with Results Type that are common between the submitted data set and the pathway named in column 1. Click on this number to display the matched submitted identifiers and their mapping to Reactome molecules.</span>
+                </li>
+                <li>
+                    <span>Entities total: The total number of curated molecules of the type selected with Results Type within the pathway named in column 1.</span>
+                </li>
+                <li>
+                    <span>Interactors found (if this option was selected). The number of interactor molecules of the type selected with Results Type that are common between the submitted data set and the pathway named in column 1. Click on this number to display the matched submitted identifiers and their mapping to Reactome molecules.</span>
+                </li>
+                <li>
+                    <span>Interactors total (if this option was selected): The total number of interactor molecules of the type selected with Results Type within the pathway named in column 1.</span>
+                </li>
+                <li>
+                    <span>Entities ratio: Put simply, the proportion of Reactome pathway molecules represented by this pathway. Calculated as the ratio of entities from this pathway that are molecules of the type selected with Results Type Vs. all entities of the type selected with Results Type.</span>
+                </li>
+                <li>
+                    <span>Entities pvalue: The result of the statistical test for over-representation, for molecules of the results type selected.</span>
+                </li>
+                <li>
+                    <span>Entities FDR: False discovery rate. Corrected over-representation probability.</span>
+                </li>
+                <li>
+                    <span>Reactions found: The number of reactions in the pathway that are represented by at least one molecule in the submitted data set, for the molecule type selected with Results Type.</span>
+                </li>
+                <li>
+                    <span>Reactions Total: The number of reactions in the pathway that contain molecules of the type selected with Results Type.</span>
+                </li>
+                <li>
+                    <span>Reactions ratio: Put simply, the proportion of Reactome reactions represented by this pathway. Calculated as the ratio of reactions from this pathway that contain molecules of the type selected with Results Type Vs. all Reactome reactions that contain molecules of the type selected with Results Type.</span>
+                </li>
+                <li>
+                    <span>Species Name.</span>
+                </li>
+            </ol>
+            p 
+                | for more details see the 
+                a(href='https://reactome.org/userguide/analysis', target='_blank') tutorial of analysis tools of Reactome
+                |.
+            h5 (2) GO enrichment analysis
+            p 
+                | <b>TIDB</b> utilities R package 
+                a(href='http://www.bioconductor.org/packages/release/bioc/html/clusterProfiler.html', target='_blank') clusterProfiler
+                | to run perform enrichment analysis. Once you select the genes of interest and click the "GO enrichment" button, it will pop up a new page for performing GO enrichment analysis. You have to set the following parameters first:
+            <ol>
+                <li>
+                    <span>the species name.</span>
+                </li>
+                <li>
+                    <span>which biological domain to choose, one of biological process, molecular function, cellular component or all.</span>
+                </li>
+                <li>
+                    <span>pvalue cutoff on enrichment tests to report</span>
+                </li>
+                <li>
+                    <span>whether adjust the pvalue using fdr method or not</span>
+                </li>
+            </ol>
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/GO_para.png" alt="GO parameter")
+            p Then click the "submit" button to start the analysis. Once the analysis finished, the results are displayed on the results panel. There are two tabs to show the results, Visualization tab to view the graphical output and Results table tab to view the analysis details. Two types of visualization (dot plot and bar plot) were supported, and you can specify the number of features to show in the plot.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/GO_vis.png" alt="GO visualization")
+            p The Result table tab shows the details of GO enrichment analysis, and you can download the table by clicking "Export details as csv". The columns in analysis details represent:
+            <ol>
+                <li>
+                    <span>GO ID: GO ID, click to open the Gene Ontology</span>
+                </li>
+                <li>
+                    <span>GO description: the description of Gene Ontology</span>
+                </li>
+                <li>
+                    <span>GeneRatio: (number of genes among the interest genes mapping to the GO term)/(the total number of genes mapping the GO term)</span>
+                </li>
+                <li>
+                    <span>pvalue</span>
+                </li>
+                <li>
+                    <span>qvalue</span>
+                </li>
+                <li>
+                    <span>GeneID: Entrez gene ID among the interest genes mapped to the GO term </span>
+                </li>
+                <li>
+                    <span>Count: number of genes among the interest genes mapped to the GO term</span>
+                </li>
+            </ol>
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/GO_table.png" alt="GO result table") 
+            h5 (3) PPI network reconstruction
+            p The protein-protein interaction (PPI) data of human, rat and mouse was extracted from IntAct database. For the given seed proteins, the PPI subnetwork which was centered on the seed proteins were constructed first and the random walking with restart (RWR) approach was then employed to prioritize the connectivity of the other proteins in the subnetwork to the seed proteins with the steadily reaching probability at the convergence state. The detailed implementation of RWR is referred to <i>Kohler, Sebastian, et al. "Walking the Interactome for Prioritization of Candidate Disease Genes." American Journal of Human Genetics 82.4 (2008): 949-958</i>. For the subnetwork construction, the largest average clustering coefficient of the subnetwork composed of the higher prioritized proteins determined the threshold of the top-rank proteins. For RWR in the PPI network, the restarting parameter of RWR was set to 0.7 for simplicity. The subnetwork analysis was implemented and plotted with the Python Networkx and Matplotlib modules respectively.
+            p For PPI network reconstruction, you have to set the three following parameters first.
+            <ol>
+                <li>
+                    <span>Times: the number of random walk steps.</span>
+                </li>
+                <li>
+                    <span>the species name.</span>
+                </li>
+                <li>
+                    <span>Edge weight cutoff: cutoff of edge weight, edges whose weight is larger than this cutoff in the network form IntAct database are used to subsequent PPI network reconstruction.</span>
+                </li>
+            </ol>
+            p The interest genes in the network are filled in red color. Moreover, you can export the network as svg format, and export the edgelist as csv format and visualize the network with network visualization tools such as Cytoscape.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/PPI_reconstruction.png" alt="PPI network") 
+
+        .col-md-12.faq
+            h4#q4 4. How can I browse and download the data?
+            p The complete data in <b>TIDB</b> can be browsed by clicking the "Browse &amp Download" button in the navigation bar. All the information for trained immunity-related genes and their supporting literature evidences can be downloaded for further analysis.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/data_download.png" alt="data download")
+        .col-md-12.faq
+            h4#q5 5. How can I guarantee data quality in the database?
+            p To address this issue, we have taken three rounds of strict manual curation for the data collection in <b>TIDB</b>. First, all sentences with trained immunity-related gene names were checked and selected by two experienced researchers independently; second, these selected sentences were submitted to an internal review, in which all gene names were manually reviewed and approved one by one by a reviewer panel consisting of three experts; third, we asked all co-authors to randomly check the data from our website make sure that all genes loaded into our database are correct. All the evidence sentences that have been manually curated are regarded as validated evidence. In addition, we added a manual curation function to the evidence phrases, with which you can provide their feedback by simply clicking the "Yes" or "No" button to confirm or reject the evidence phrases. IL-1 gene of Homo sapiens is used as an example in the figure shown below:
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/data_curation.png" alt="data curation")
+        
+        .col-md-12.faq
+            h4#q6 6. Can I provide feedback to the evidence of trained immunity-related genes?
+            p Yes, as described above, we provide a manual annotation function at the end of each evidence phrase, by which you can confirm the evidence or deny it by simply clicking "Yes" or "No". We will update our database periodically to include the feedback from the user.
+            p In addition, we added "Feedback" feature to our website, with which you can submit new genes to our database manually; the database will be updated periodically in future.
+            p You can also send email to us for further questions or potential collaborations.
+            .helpImageContainer
+                img.helpImage(src="/TIDBStatic/img/feedback.png" alt="feedback") 
+        .col-md-12.faq
+            h4#q7 7. Do I need to log in for manual curation?
+            p Yes, the login is necessary for you to do the manual curation or download data from our database. We will monitor and validate community curation feedback before inclusion in the database.
+block js
+    script.
+        $("#helpNav").addClass("active");
+

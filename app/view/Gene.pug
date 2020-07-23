@@ -1,0 +1,17 @@
+extends common/layout
+block content
+    if geneInfo
+      .row
+          h3 #{geneName}
+      .row.geneInfoContainer
+        table.table.table-hover
+          each value,key in geneInfo
+            tr
+              td(style="width:200px;") #{key}
+              td !{value}
+    else
+      .row 
+        h4 暂时没有该基因的信息
+block js                  
+  script.
+    $("#homeNav").addClass("active");

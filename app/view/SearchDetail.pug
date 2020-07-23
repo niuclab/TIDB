@@ -1,0 +1,34 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.css')
+block content
+    .row
+        .panel.panel-primary
+            .panel-heading Search results
+            .panel-body
+                .row
+                    table#resultTable
+    #showModal.modal.fade
+        .modal-dialog.modal-lg
+            .modal-content
+                .modal-header
+                    button.close(type='button', data-dismiss='modal', aria-label='Close')
+                        span(aria-hidden='true') ×
+                .modal-body
+                    .row
+                        h4 HIGHLIGHT
+                        button.btn.btn-default.btnSent.active(type='button') Highlight matched sentence
+                        button.btn.btn-default.btnTerm.active(type='button' style="margin-left:0.2em") Highlight matched terms
+                        .panel.panel-default
+                            .panel-body.highlightPara
+                .modal-footer
+                    button.btn.btn-default(type='button', data-dismiss='modal') Close
+
+block js
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.js"></script>
+    <script src="/TIDBStatic/widgets/bootstrap-table/bootstrap-table-filter-control.js"></script>
+    script(src='/TIDBStatic/js/Search/detail.js')
+    script.
+      var geneId = '#{geneId}';
+      createTable(geneId, false)
+      $('[data-toggle="tooltip"]').tooltip();

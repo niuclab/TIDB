@@ -1,0 +1,46 @@
+.row
+  .col-md-4
+    a(href="/tidb") 
+      img(src='/TIDBStatic/img/logo.png', style='height:70px;max-width:100%;')
+  .col-md-8
+    ul.nav.nav-pills.aaDBNav
+      li#homeNav(role='presentation')
+        a(href='/tidb', style='') Home
+      li#browseNav(role='presentation')
+        a(href='/tidb/browse', style='') Browse & Download
+      li#helpNav(role='presentation')
+        a(href='/tidb/help', style='') FAQ
+      li#feedbackNav(role='presentation')
+        a(href='/tidb/feedback', style='') Feedback
+      if ctx.session && ctx.session.email
+        li#loginNav(role='presentation' style="display:flex;height:45px; align-items:center")
+          a(style="font-size:12px;") #{ctx.session.email}
+      else
+        li#loginNav(role='presentation')
+          a(type="button" data-toggle="modal" data-target="#userModal") Login            
+hr
+#userModal.modal.fade(tabindex='-1', role='dialog', aria-labelledby='myModalLabel')
+  .modal-dialog(role='document')
+    .modal-content
+      .modal-body
+        div
+          ul.nav.nav-tabs(role='tablist')
+            li.active(role='presentation')
+              a(href='#loginPane', aria-controls='home', role='tab', data-toggle='tab' form-model="login") Login
+            li(role='presentation' style="padding-left:0.2em")
+              a(href='#registerPane', aria-controls='profile', role='tab', data-toggle='tab' form-model="register") Register
+          .tab-content
+            #loginPane.tab-pane.active(role='tabpanel')
+            #registerPane.tab-pane(role='tabpanel')
+            form.form-horizontal#loginForm
+              .form-group
+                label.col-sm-2.control-label(for="userEmail") Email
+                .col-sm-10
+                  input#userEmail.form-control(type="email" placeholder="Email" name="userEmail")
+              .form-group
+                label.col-sm-2.control-label(for="password") Password
+                .col-sm-10
+                  input#password.form-control(type="password" placeholder="Password" name="password")    
+              button.btn.btn-default(type="submit") Submit  
+      .modal-footer
+        button.btn.btn-default(type='button', data-dismiss='modal') Close

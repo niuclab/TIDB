@@ -1,0 +1,36 @@
+extends common/layout
+block css
+    link(rel='stylesheet', href='/TIDBStatic/widgets/bootstrap-table/bootstrap-table.min.css')
+block content
+    .row
+        .panel.panel-primary
+            .panel-heading Interested Genes
+            .panel-body
+                .row
+                    | #{userGene}
+    .row
+        div
+            ul.nav.nav-tabs(role='tablist')
+                li.active(role='presentation')
+                    a(href='#expression', aria-controls='home', role='tab', data-toggle='tab') Expression Atlas Heatmap
+            .tab-content
+                #expression.tab-pane.active(role='tabpanel')
+                    #highchartsContainer(style='width: 100%')
+
+
+block js
+    <script src="/TIDBStatic/widgets/expression_atlas/babel-polyfill.min.js"></script>
+    <script src="/TIDBStatic/widgets/expression_atlas/fetch-polyfill.min.js"></script>
+    <script src="/TIDBStatic/widgets/expression_atlas/vendorCommons.bundle.js"></script>
+    <script src="/TIDBStatic/widgets/expression_atlas/expressionAtlasHeatmapHighcharts.bundle.js"></script>
+    script.
+      var ensemblGene = "#{ensembls}";
+      expressionAtlasHeatmapHighcharts.render(
+        {
+          target: 'highchartsContainer',
+          experiment: 'reference',
+          query: {
+            gene: ensemblGene.replace(/,/g, " ")
+          }
+        }
+      );

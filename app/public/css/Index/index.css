@@ -1,0 +1,11 @@
+.introductContainer,.newsContainer{
+    /*height: 300px;*/
+    border: 1px solid #428bca;
+    border-radius: 15px;
+    background-color: #EFEFEF;
+    padding: 15px;
+}
+.newsContainer{
+    background-color: #fff;
+}
+blockquote{font-size: 10px;}

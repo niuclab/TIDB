@@ -1,0 +1,58 @@
+extends common/layout
+block content
+    .row
+        p If you have the trained immunity-related genes which are not found in our database, please enter their information here:
+        form#GeneForm.form-horizontal(role='form', novalidate='novalidate', action="/tidb/feedback?_csrf="+ctx.csrf, method="post")
+            .form-group
+                label.col-sm-2.control-label(for='GeneName') Gene Symbol(required)
+                .col-sm-10
+                    input#GeneName.form-control(type='text', name='GeneName', maxlength='200', placeholder='please input Gene Symbol', required='', aria-required='true')
+            .form-group
+                label.col-sm-2.control-label(for='Organism') Organism(required)
+                .col-sm-10
+                    input#Organism.form-control(type='text', name='Organism', maxlength='200', placeholder='please input organism', required='', aria-required='true')
+            .form-group
+                label.col-sm-2.control-label(for='pmid') PMID(required)
+                .col-sm-10
+                    input#pmid.form-control(type='text', name='pmid', placeholder='please input PMID', maxlength='100', required='', aria-required='true')
+            .form-group
+                label.col-sm-2.control-label(for='sentence') Sentence(required)
+                .col-sm-10
+                    input#sentence.form-control(type='text', name='sentence', maxlength='500', placeholder='please input Sentence', required='', aria-required='true')
+            .form-group
+                label.col-sm-2.control-label(for='useremail') Email(required)
+                .col-sm-10
+                    input#useremail.form-control(type='email', name='useremail', placeholder='please input your Email', maxlength='100', required='', aria-required='true')
+            .form-group
+                .col-sm-offset-2.col-sm-10
+                    button.btn.btn-default.btnSubmit(type='submit') Submit
+    .layerContainer(style="position:fixed;width:100%;height:100%;top:0;left:0;background:#000;opacity:0.4;display:none;align-items:center;justify-content:center;")
+      img(src="/TIDBStatic/widgets/layer/loading-1.gif") 
+block js
+    script(src="/TIDBStatic/widgets/validate/jquery.validate.js")
+    script.
+        $("#feedbackNav").addClass("active");
+        function openLayer() {
+            $(".layerContainer").css("display","flex");
+        }
+        function closeLayer() {
+            $(".layerContainer").css("display","none");
+        }
+        $("#GeneForm").validate({
+            errorClass: "error",
+            success: 'valid',
+            unhighlight: function (element, errorClass, validClass) { //验证通过
+                $(element).parent().removeClass("has-error");
+                $(element).tooltip('destroy').removeClass(errorClass);
+            },
+            errorPlacement: function (label, element) {
+                $(element).tooltip('destroy'); /*必需*/
+                $(element).parent().addClass("has-error");
+                $(element).attr('title', $(label).text()).tooltip({placement: "bottom"});
+                $(element).tooltip('show');
+            },
+            submitHandler: function (form) {
+                openLayer();
+                $(form).submit();
+            }
+        });
