@@ -1,26 +1,20 @@
 # TIDB
 
-## 数据库配置
+Trained immunity, referred as innate immune memory, is an emerging new property that describ-ing innate immune system also exhibits augmented immune response to a secondary stimulus. Accumulating evidence reveals that trained immunity not only has broad benefits to host defense but also harmful to host in chronic inflammatory diseases. Trained immunity plays an important role in host defense and immune-mediated diseases. However, all trained immunity-related in-formation is scattered in the literature. 
 
-### 下载MongoDB数据库
+Here, we describe TIDB, a comprehensive database that provides well-studied trained immunity-related genes in human, rat or mouse as well as the evi-dence in literature. Moreover, TIDB also provides three modules to analyze and invest the func-tion of the trained-immunity-related genes of interest, including Reactome pathway over-representation analysis, Gene Ontology (GO) enrichment analysis and protein-protein interaction (PPI) subnetwork reconstruction. TIDB database will be useful to provide a valuable strategy for vaccine designing and immunity-mediated disease therapy.
 
-从 https://www.mongodb.com/try/download/community 下载相应的版本 一直按照默认选项安装。
+### Dependences
 
-### 导入数据
+- [MongoDB](https://www.mongodb.com/try/download/community), database server
+- [node.js](https://nodejs.org/)
+- [egg](https://eggjs.org/)
 
-数据文件`TIDB_api/data/tidb.dump` 使用 mongorestore 导入数据
+### data import
 
-导入数据命令：`mongorestore --archive=TIDB_api/data/tidb.dump`
-
-### 数据库可视化工具[可选]
-
-可以使用 [compass](https://www.mongodb.com/try/download/compass) 对数据库进行查询修改，一般安装数据库时会询问是否安装compass，选择是就行
-
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
+```sh
+mongorestore --archive=TIDB_api/data/tidb.dump
+```
 
 ### Development
 
@@ -37,12 +31,5 @@ $ npm start
 $ npm stop
 ```
 
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
-
+ Your suggestion and contribution well be highly appreciated. Please feel free 
+ to [contact me](mailto:yiluheihei@gmail.com) if you have any questions.
